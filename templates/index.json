@@ -1,1 +1,258 @@
-{"sections":{"aca49941-f3f4-4588-a5b4-8f8f5b157305":{"type":"image-banner","blocks":{"template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-heading-1":{"type":"heading","settings":{"heading":"Juliana Muniz","heading_size":"h2"}},"template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-text-1":{"type":"text","settings":{"text":"“Desistir nunca foi uma opção pra mim, dentro desse contexto minha meta de vida se tornou mostrar para todas as pessoas que eu puder a força que ela tem. O <em>Pole Dance<\/em> me deu essa oportunidade.”","text_style":"body"}},"template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-buttons-1":{"type":"buttons","settings":{"button_label_1":"Conheça nosso estúdio","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-heading-1","template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-text-1","template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-buttons-1"],"settings":{"image":"shopify:\/\/shop_images\/muniz.webp","image_overlay_opacity":20,"image_height":"large","desktop_content_position":"bottom-left","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"fixed","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"87636941-e860-4a3d-bfa4-866dd0c2c059":{"type":"rich-text","blocks":{"template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-heading-1":{"type":"heading","settings":{"heading":"Eleve-se com o Pole Dance","heading_size":"h1"}},"template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-text-1":{"type":"text","settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"}},"template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-button-1":{"type":"button","settings":{"button_label":"Button label","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-heading-1","template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-text-1","template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-button-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"451e018e-d1e7-48cc-8087-31e6200b7bfa":{"type":"slideshow","blocks":{"template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/muniz.webp","heading":"Image slide","heading_size":"h2","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"bottom-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2":{"type":"slide","settings":{"heading":"Image slide","heading_size":"h1","subheading":"Tell your brand's story through images","button_label":"Button label","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}}},"block_order":["template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-1","template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2"],"settings":{"layout":"full_bleed","slide_height":"small","slider_visual":"dots","auto_rotate":true,"change_slides_speed":3,"image_behavior":"none","show_text_below":true,"accessibility_info":""}},"06396d79-7027-4806-8f91-09e10dd65279":{"type":"video","settings":{"heading":"Do Pole Sport ao Chair Dance","heading_size":"h1","enable_video_looping":false,"video_url":"https:\/\/youtu.be\/vZkrpRCSFI0","description":"","full_width":false,"color_scheme":"accent-2","padding_top":36,"padding_bottom":36}},"103c385b-ec1b-4c45-a05d-182b030929c0":{"type":"image-with-text","blocks":{"template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-heading-1":{"type":"heading","settings":{"heading":"Downtown Studio","heading_size":"h2"}},"template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-text-1":{"type":"text","settings":{"text":"<p>O Downtown não é somente um Studio de Pole Dance e tecido acrobático, ele é um espaço onde trabalhamos a autoestima e amor próprio de pessoas que se perderam em algum momento. Somos uma equipe de apoio. Nós buscamos desfazer estereótipos e estimular a autoestima e a qualidade de vida através da dança.<\/p>","text_style":"body"}},"template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-button-1":{"type":"button","settings":{"button_label":"Saber Mais","button_link":"shopify:\/\/pages\/contact","button_style_secondary":true}}},"block_order":["template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-heading-1","template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-text-1","template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-button-1"],"settings":{"image":"shopify:\/\/shop_images\/logo_fenrir_2.png","height":"medium","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"overlap","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"0a127a96-a7c8-44f1-893f-dddd18415b16":{"type":"rich-text","blocks":{"3a670767-a2f9-4ec2-8552-24068631c8e3":{"type":"button","settings":{"button_label":"Em breve cursos com Juliana Muniz.","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}},"template--21064322547994__0a127a96-a7c8-44f1-893f-dddd18415b16-heading-1":{"type":"heading","settings":{"heading":"Pole Dance on-line","heading_size":"h2"}},"template--21064322547994__0a127a96-a7c8-44f1-893f-dddd18415b16-text-1":{"type":"text","settings":{"text":"<p>Aprenda Pole Dance com a campeã brasileira Juliana Muniz. Aulas on-line para todos os níveis.<\/p>"}}},"block_order":["3a670767-a2f9-4ec2-8552-24068631c8e3","template--21064322547994__0a127a96-a7c8-44f1-893f-dddd18415b16-heading-1","template--21064322547994__0a127a96-a7c8-44f1-893f-dddd18415b16-text-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["aca49941-f3f4-4588-a5b4-8f8f5b157305","87636941-e860-4a3d-bfa4-866dd0c2c059","451e018e-d1e7-48cc-8087-31e6200b7bfa","06396d79-7027-4806-8f91-09e10dd65279","103c385b-ec1b-4c45-a05d-182b030929c0","0a127a96-a7c8-44f1-893f-dddd18415b16"]}
+{
+  "sections": {
+    "aca49941-f3f4-4588-a5b4-8f8f5b157305": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Juliana Muniz",
+            "heading_size": "h2"
+          }
+        },
+        "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "“Desistir nunca foi uma opção pra mim, dentro desse contexto minha meta de vida se tornou mostrar para todas as pessoas que eu puder a força que ela tem. O <em>Pole Dance<\/em> me deu essa oportunidade.”",
+            "text_style": "body"
+          }
+        },
+        "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Conheça nosso estúdio",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-heading-1",
+        "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-text-1",
+        "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/muniz.webp",
+        "image_overlay_opacity": 20,
+        "image_height": "large",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "87636941-e860-4a3d-bfa4-866dd0c2c059": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eleve-se com o Pole Dance",
+            "heading_size": "h1"
+          }
+        },
+        "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-heading-1",
+        "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-text-1",
+        "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-cca75d06-d90f-4027-b87c-5a450c47e063",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "451e018e-d1e7-48cc-8087-31e6200b7bfa": {
+      "type": "slideshow",
+      "blocks": {
+        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/muniz.webp",
+            "heading": "Image slide",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-1",
+        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
+    "06396d79-7027-4806-8f91-09e10dd65279": {
+      "type": "video",
+      "settings": {
+        "heading": "Do Pole Sport ao Chair Dance",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/vZkrpRCSFI0",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "scheme-ca66276b-c6f4-467f-b9ee-0ed84ab633be",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "103c385b-ec1b-4c45-a05d-182b030929c0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Downtown Studio",
+            "heading_size": "h2"
+          }
+        },
+        "template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O Downtown não é somente um Studio de Pole Dance e tecido acrobático, ele é um espaço onde trabalhamos a autoestima e amor próprio de pessoas que se perderam em algum momento. Somos uma equipe de apoio. Nós buscamos desfazer estereótipos e estimular a autoestima e a qualidade de vida através da dança.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saber Mais",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-heading-1",
+        "template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-text-1",
+        "template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/logo_fenrir_2.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0a127a96-a7c8-44f1-893f-dddd18415b16": {
+      "type": "rich-text",
+      "blocks": {
+        "3a670767-a2f9-4ec2-8552-24068631c8e3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Em breve cursos com Juliana Muniz.",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "template--21064322547994__0a127a96-a7c8-44f1-893f-dddd18415b16-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pole Dance on-line",
+            "heading_size": "h2"
+          }
+        },
+        "template--21064322547994__0a127a96-a7c8-44f1-893f-dddd18415b16-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aprenda Pole Dance com a campeã brasileira Juliana Muniz. Aulas on-line para todos os níveis.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "3a670767-a2f9-4ec2-8552-24068631c8e3",
+        "template--21064322547994__0a127a96-a7c8-44f1-893f-dddd18415b16-heading-1",
+        "template--21064322547994__0a127a96-a7c8-44f1-893f-dddd18415b16-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-cca75d06-d90f-4027-b87c-5a450c47e063",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "aca49941-f3f4-4588-a5b4-8f8f5b157305",
+    "87636941-e860-4a3d-bfa4-866dd0c2c059",
+    "451e018e-d1e7-48cc-8087-31e6200b7bfa",
+    "06396d79-7027-4806-8f91-09e10dd65279",
+    "103c385b-ec1b-4c45-a05d-182b030929c0",
+    "0a127a96-a7c8-44f1-893f-dddd18415b16"
+  ]
+}
