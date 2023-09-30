@@ -194,13 +194,23 @@
             "row_content": "<p>Certo. Embora cada corpo tenha seu próprio tempo de resposta, alguns estudos apontam que praticar Pole Dance pode queimar até 700 calorias em uma aula.<\/p>",
             "page": ""
           }
+        },
+        "7971e772-ca37-47bd-8689-7b5d7f7f145b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "A sua vida mudou após mergulhar fundo no universo do pole dance?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Mudou absurdamente. O Pole virou uma atividade, uma paixão e por último minha profissão. Hoje o Pole é que me mantém financeiramente. Além de tudo isso também mudou a forma que me vejo, minha autoestima e me deu a oportunidade de ajudar outras mulheres.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--21227852923162__bb9dd3a0-412a-4dbe-9ac4-be9b5591b933-collapsible_row-1",
         "26c808e6-c1b5-44eb-8fc5-8fcc6a98135f",
         "19f97557-2100-48bf-9cbc-11dd3326003d",
-        "3d119942-c491-47db-a9b0-b5c58d14a9ed"
+        "3d119942-c491-47db-a9b0-b5c58d14a9ed",
+        "7971e772-ca37-47bd-8689-7b5d7f7f145b"
       ],
       "settings": {
         "caption": "Entrevista com Juliana Muniz",
