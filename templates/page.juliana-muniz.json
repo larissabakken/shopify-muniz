@@ -2,13 +2,115 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 76
       }
+    },
+    "f641e302-bc43-4b40-8387-e2e498a0ad7e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21227852923162__f641e302-bc43-4b40-8387-e2e498a0ad7e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quem é Juliana Muniz?",
+            "heading_size": "h2"
+          }
+        },
+        "template--21227852923162__f641e302-bc43-4b40-8387-e2e498a0ad7e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Com uma carreira de mais de 10 anos, Juliana Muniz coleciona, em sua trajetória, títulos nacionais e internacionais. A atual dona do Studio Downtown viu no Pole Dance a transformação de sua vida. A partir da prática, passou a ter uma outra relação com o próprio corpo, ganhando mais autoconfiança, autoestima e coragem para ser quem realmente é. Foi no ensino que Juliana encontrou a sua paixão e seu propósito...<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21227852923162__f641e302-bc43-4b40-8387-e2e498a0ad7e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais sobre Juliana Muniz",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21227852923162__f641e302-bc43-4b40-8387-e2e498a0ad7e-heading-1",
+        "template--21227852923162__f641e302-bc43-4b40-8387-e2e498a0ad7e-text-1",
+        "template--21227852923162__f641e302-bc43-4b40-8387-e2e498a0ad7e-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/muniz.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-f33146eb-0498-4bd9-8351-ca97cd6eb017",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e7372c99-a4ee-44da-a2a5-c2a174b27e4a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21227852923162__e7372c99-a4ee-44da-a2a5-c2a174b27e4a-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Fantástico",
+            "text": "<p>\"Modéstia à parte, fui autodidata no pole, eu aprendi olhando\"<\/p>",
+            "link_label": "",
+            "link": "https:\/\/g1.globo.com\/fantastico\/noticia\/2021\/10\/17\/conheca-a-historia-da-empresaria-que-teve-a-vida-transformada-pelo-pole-dance.ghtml"
+          }
+        },
+        "template--21227852923162__e7372c99-a4ee-44da-a2a5-c2a174b27e4a-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21227852923162__e7372c99-a4ee-44da-a2a5-c2a174b27e4a-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21227852923162__e7372c99-a4ee-44da-a2a5-c2a174b27e4a-column-1",
+        "template--21227852923162__e7372c99-a4ee-44da-a2a5-c2a174b27e4a-column-2",
+        "template--21227852923162__e7372c99-a4ee-44da-a2a5-c2a174b27e4a-column-3"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "scheme-688f2d30-56fe-4aa7-9fa8-55abe5fefec3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "f641e302-bc43-4b40-8387-e2e498a0ad7e",
+    "e7372c99-a4ee-44da-a2a5-c2a174b27e4a"
   ]
 }
