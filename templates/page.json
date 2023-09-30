@@ -66,6 +66,23 @@
         "show_text_below": true
       }
     },
+    "158a22b7-9e20-4b7c-ad9a-9811a8f9a73a": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/muniz-logo-studio.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "7bcd4645-652f-4362-b5e9-2f8428331786": {
       "type": "multicolumn",
       "blocks": {
@@ -124,6 +141,7 @@
     "main",
     "039530e2-6576-4f1c-bba2-2b1dc8597821",
     "ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f",
+    "158a22b7-9e20-4b7c-ad9a-9811a8f9a73a",
     "7bcd4645-652f-4362-b5e9-2f8428331786"
   ]
 }
