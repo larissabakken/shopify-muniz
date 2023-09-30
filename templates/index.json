@@ -97,7 +97,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/muniz.webp",
-            "heading": "Image slide",
+            "heading": "Pole Dance Root",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
@@ -107,17 +107,17 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
             "text_alignment_mobile": "center"
           }
         },
         "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "heading": "Exotic Pole",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
