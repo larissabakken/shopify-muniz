@@ -282,8 +282,8 @@
         "container_color_scheme": "scheme-688f2d30-56fe-4aa7-9fa8-55abe5fefec3",
         "open_first_collapsible_row": false,
         "image": "shopify:\/\/shop_images\/muniz.webp",
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "image_ratio": "large",
+        "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
       }
