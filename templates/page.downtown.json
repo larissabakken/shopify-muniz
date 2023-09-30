@@ -2,13 +2,169 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 76
       }
+    },
+    "92592380-f2e5-4dbf-8cf6-65703ebc48b2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21228347064602__92592380-f2e5-4dbf-8cf6-65703ebc48b2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Em breve novidades sobre os cursos online!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21228347064602__92592380-f2e5-4dbf-8cf6-65703ebc48b2-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-80f5e0bd-194a-4422-992c-e804f6df2098",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "9e8b7256-537e-497d-bea3-f84ec048998e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21228347064602__9e8b7256-537e-497d-bea3-f84ec048998e-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Venha conosco!",
+            "heading_size": "h2"
+          }
+        },
+        "template--21228347064602__9e8b7256-537e-497d-bea3-f84ec048998e-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "No Studio Downtown, o objetivo é empoderar mulheres, a fim de incentivá-las a construir uma melhor relação com o próprio corpo e sua vida, elevando a autoconfiança e autoestima das alunas. Juliana, junto a um time de professoras, oferece no estúdio aulas de pole dance nas modalidades Sensual, Exotic Pole, Pole Sport, Strong Pole Sport e Pole Root, além de aulas de tecido acrobático, flexibilidade e alongamento.",
+            "text_style": "body"
+          }
+        },
+        "template--21228347064602__9e8b7256-537e-497d-bea3-f84ec048998e-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Conheça Juliana",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Modalidades",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21228347064602__9e8b7256-537e-497d-bea3-f84ec048998e-heading-1",
+        "template--21228347064602__9e8b7256-537e-497d-bea3-f84ec048998e-text-1",
+        "template--21228347064602__9e8b7256-537e-497d-bea3-f84ec048998e-buttons-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/muniz-studio-b_w.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "09713160-443f-4747-9106-00dc4225435e": {
+      "type": "image-with-text",
+      "blocks": {
+        "d8ce5068-8e7a-465c-ad17-f04ca9745661": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Venha conosco!",
+            "heading_size": "h2"
+          }
+        },
+        "template--21228347064602__09713160-443f-4747-9106-00dc4225435e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>No Studio Downtown, o objetivo é empoderar mulheres, a fim de incentivá-las a construir uma melhor relação com o próprio corpo e sua vida, elevando a autoconfiança e autoestima das alunas. Juliana, junto a um time de professoras, oferece no estúdio aulas de pole dance nas modalidades Sensual, Exotic Pole, Pole Sport, Strong Pole Sport e Pole Root, além de aulas de tecido acrobático, flexibilidade e alongamento.<\/h5>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "d8ce5068-8e7a-465c-ad17-f04ca9745661",
+        "template--21228347064602__09713160-443f-4747-9106-00dc4225435e-text-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/muniz-logo-studio.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-cca75d06-d90f-4027-b87c-5a450c47e063",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "eb9ff2eb-ed63-4fd2-af78-a2d86dbf4129": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21228347064602__eb9ff2eb-ed63-4fd2-af78-a2d86dbf4129-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O Downtown não é somente um Studio de Pole Dance e tecido acrobático, ele é um espaço onde trabalhamos a autoestima e amor próprio de pessoas que se perderam em algum momento. Somos uma equipe de apoio. Nós buscamos desfazer estereótipos e estimular a autoestima e a qualidade de vida através da dança.<br\/><br\/>A dança promove benefícios à saúde e a autoaceitação com coreografias que auxiliam na desenvoltura do corpo e da mente.<\/p><p>Pole dance é muito mais do que apenas uma performance. A dança se tornou uma atividade física que desenvolve força, habilidade, flexibilidade e coordenação motora, além de trabalhar a estética corporal. Através de uma barra de aço, as coreografias possuem manobras aéreas que demonstram como o corpo humano é capaz de realizar movimentos fascinantes fazendo uso da técnica e da criatividade.<\/p><p>Além de todos esses benefícios, o pole dance estimula o emagrecimento, trabalha o tônus muscular e promove saúde e bem-estar. Consequentemente, auxilia também em outros fatores como a autoestima O Studio Downtown, situado na região do Grande ABC em São Paulo oferece aulas de pole dance nas mais diversas modalidades como: sensual, exotic pole, pole sport, strong pole sport e pole root, além de aulas de tecido acrobático, flexibilidade e alongamento, todos essenciais e complementares para as modalidades citadas.<br\/><br\/>“A modalidade Sensual no Studio Downtown é utilizada como dança, mas mais importante que isso, nós também estimulamos a autoaceitação. As aulas são formadas por coreografias simples nas quais qualquer pessoa pode realizá-las”.<\/p><p>O Exotic Pole é uma vertente com origem russa e mais complexa, tendo como obrigatoriedade o salto acima de 15cm. É uma dança que requer mais resistência e força. Já o Pole Sport é a base de todas as outras e ensina todas as manobras desde as mais simples até as mais difíceis.<br\/><br\/>O Strong Pole Sport é uma modalidade que, além das manobras acrobáticas, trabalha o condicionamento físico e o fortalecimento dos músculos. O nome é de autoria do Studio Downtown. Outros estúdios de dança podem oferecer a mesma aula, mas com uma nomenclatura diferente.<br\/><br\/>E o Pole Root, também de nome autoral do Studio Downtown, é a junção de todas as modalidades, ele é, na verdade, o pole dance original de como ele começou, quando ainda não era dividido em outras categorias.<\/p><p>Por ter se originado em espaços “marginalizados”, como danceterias e boates noturnas, o pole dance hoje enfrenta uma quebra de tabus e preconceitos sociais, não só pelo estereótipo de ser apenas uma dança sensual, como pelo julgamento de que apenas um público específico pode praticar a dança.<br\/><br\/>Qualquer pessoa pode fazer pole dance. No Studio Downtown, por exemplo, no nosso quadro de alunos temos desde crianças de 8 anos de idade até mulheres com mais de 60 anos. Elas são advogadas, médicas, donas de casa…<\/p>"
+          }
+        },
+        "template--21228347064602__eb9ff2eb-ed63-4fd2-af78-a2d86dbf4129-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Juliana Muniz",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "Modalidades",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21228347064602__eb9ff2eb-ed63-4fd2-af78-a2d86dbf4129-text-1",
+        "template--21228347064602__eb9ff2eb-ed63-4fd2-af78-a2d86dbf4129-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "92592380-f2e5-4dbf-8cf6-65703ebc48b2",
+    "9e8b7256-537e-497d-bea3-f84ec048998e",
+    "09713160-443f-4747-9106-00dc4225435e",
+    "eb9ff2eb-ed63-4fd2-af78-a2d86dbf4129"
   ]
 }
