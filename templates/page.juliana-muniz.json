@@ -212,6 +212,24 @@
             "row_content": "<p>Às vezes tento ir pra academia mas sempre paro no meio, atualmente fico só com o pole mesmo. Gerir meu studio e ainda dar aulas consome todo meu tempo.<\/p>",
             "page": ""
           }
+        },
+        "8dd39627-5948-470c-b228-9e013729da63": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "É cuidadosa com a alimentação diária? O que evitar colocar no prato?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Eu sou péssima hahaha, mas tento não comer muita fritura, fast food e açúcar, mas as vezes escorrego.<\/p>",
+            "page": ""
+          }
+        },
+        "203747c5-9ba8-4a57-b293-ad775d7ef331": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual é o seu pecado da gula?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Amo carboidrato. Meu pecado é bolo e pão hahaha<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -220,7 +238,9 @@
         "19f97557-2100-48bf-9cbc-11dd3326003d",
         "3d119942-c491-47db-a9b0-b5c58d14a9ed",
         "7971e772-ca37-47bd-8689-7b5d7f7f145b",
-        "029e6902-c500-41d8-b32f-a0295ac98d57"
+        "029e6902-c500-41d8-b32f-a0295ac98d57",
+        "8dd39627-5948-470c-b228-9e013729da63",
+        "203747c5-9ba8-4a57-b293-ad775d7ef331"
       ],
       "settings": {
         "caption": "Entrevista com Juliana Muniz",
