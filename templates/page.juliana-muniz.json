@@ -101,7 +101,7 @@
         "5c59ba06-6eb5-4d57-830e-c7d814dc3902"
       ],
       "settings": {
-        "title": "Entrevistas",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -110,11 +110,11 @@
         "background_style": "primary",
         "button_label": "Veja mais entrevistas",
         "button_link": "shopify:\/\/blogs\/novidades\/lista-de-entrevistas",
-        "color_scheme": "scheme-f33146eb-0498-4bd9-8351-ca97cd6eb017",
+        "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 16
       }
     },
     "102cc380-0092-495e-ac34-09c8560b7b9f": {
@@ -154,7 +154,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "color_scheme": "scheme-f33146eb-0498-4bd9-8351-ca97cd6eb017",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
