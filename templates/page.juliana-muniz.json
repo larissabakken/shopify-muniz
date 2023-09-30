@@ -167,10 +167,20 @@
             "row_content": "<p>Infelizmente não foi da forma que hoje muita gente pôde descobrir. Eu passei muitas coisas que acabaram me levando a vida noturna e foi lá que conheci o pole. Do momento em que conheci o pole pra frente minha vida mudou completamente. Ele mudou toda minha vida e com ele mudei a vida de muitas mulheres.<\/p>",
             "page": ""
           }
+        },
+        "26c808e6-c1b5-44eb-8fc5-8fcc6a98135f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Como você se sente sendo referência no Brasil quando falamos sobre Pole Dance?",
+            "icon": "chat_bubble",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "template--21227852923162__bb9dd3a0-412a-4dbe-9ac4-be9b5591b933-collapsible_row-1"
+        "template--21227852923162__bb9dd3a0-412a-4dbe-9ac4-be9b5591b933-collapsible_row-1",
+        "26c808e6-c1b5-44eb-8fc5-8fcc6a98135f"
       ],
       "settings": {
         "caption": "Entrevista com Juliana Muniz",
