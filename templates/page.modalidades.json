@@ -1,52 +1,5 @@
 {
   "sections": {
-    "0d9a23e6-9eec-4b65-94fc-df4d07b798b1": {
-      "type": "image-banner",
-      "blocks": {
-        "template--21227630952730__0d9a23e6-9eec-4b65-94fc-df4d07b798b1-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Venha conosco!",
-            "heading_size": "h1"
-          }
-        },
-        "template--21227630952730__0d9a23e6-9eec-4b65-94fc-df4d07b798b1-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "No Studio Downtown, o objetivo é empoderar mulheres, a fim de incentivá-las a construir uma melhor relação com o próprio corpo e sua vida, elevando a autoconfiança e autoestima das alunas. Juliana, junto a um time de professoras, oferece no estúdio aulas de pole dance nas modalidades Sensual, Exotic Pole, Pole Sport, Strong Pole Sport e Pole Root, além de aulas de tecido acrobático, flexibilidade e alongamento.",
-            "text_style": "body"
-          }
-        },
-        "template--21227630952730__0d9a23e6-9eec-4b65-94fc-df4d07b798b1-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--21227630952730__0d9a23e6-9eec-4b65-94fc-df4d07b798b1-heading-1",
-        "template--21227630952730__0d9a23e6-9eec-4b65-94fc-df4d07b798b1-text-1",
-        "template--21227630952730__0d9a23e6-9eec-4b65-94fc-df4d07b798b1-buttons-1"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -112,7 +65,6 @@
     }
   },
   "order": [
-    "0d9a23e6-9eec-4b65-94fc-df4d07b798b1",
     "main",
     "d38dc27d-4b30-42a2-a77b-ae4b290eb826"
   ]
