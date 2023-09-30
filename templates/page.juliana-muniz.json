@@ -148,8 +148,8 @@
         "ab99f852-735f-4ac9-b7af-5351e4d8b426"
       ],
       "custom_css": [
-        "h2 {color: #00ced1;}",
-        ".rich-text__caption {background-color: #00CED1; border-radius: 20px; padding: 1rem;}"
+        "h2 {color: #00ced1; font-weight: bolder;}",
+        ".rich-text__caption {background-color: #00ced1; border-radius: 20px; padding: 1rem;}"
       ],
       "settings": {
         "desktop_content_position": "center",
