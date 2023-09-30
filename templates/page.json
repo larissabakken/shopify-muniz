@@ -8,6 +8,95 @@
         "padding_bottom": 76
       }
     },
+    "039530e2-6576-4f1c-bba2-2b1dc8597821": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21227630952730__039530e2-6576-4f1c-bba2-2b1dc8597821-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--21227630952730__039530e2-6576-4f1c-bba2-2b1dc8597821-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--21227630952730__039530e2-6576-4f1c-bba2-2b1dc8597821-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21227630952730__039530e2-6576-4f1c-bba2-2b1dc8597821-heading-1",
+        "template--21227630952730__039530e2-6576-4f1c-bba2-2b1dc8597821-text-1",
+        "template--21227630952730__039530e2-6576-4f1c-bba2-2b1dc8597821-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-heading-1",
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-text-1",
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-buttons-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "d38dc27d-4b30-42a2-a77b-ae4b290eb826": {
       "type": "multirow",
       "blocks": {
@@ -66,6 +155,8 @@
   },
   "order": [
     "main",
+    "039530e2-6576-4f1c-bba2-2b1dc8597821",
+    "ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f",
     "d38dc27d-4b30-42a2-a77b-ae4b290eb826"
   ]
 }
