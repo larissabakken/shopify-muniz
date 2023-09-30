@@ -1,0 +1,154 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 76
+      }
+    },
+    "18c6a569-bc12-4811-aca2-f67947e2135f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21228015452442__18c6a569-bc12-4811-aca2-f67947e2135f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Encontre sua paixão no pole dance!",
+            "heading_size": "h2"
+          }
+        },
+        "template--21228015452442__18c6a569-bc12-4811-aca2-f67947e2135f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Descubra a beleza e a emoção das nossas modalidades e encontre a paixão pela dança que está dentro de você!<\/p>"
+          }
+        },
+        "template--21228015452442__18c6a569-bc12-4811-aca2-f67947e2135f-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Horários e Preços",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "Estúdio Downtown",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21228015452442__18c6a569-bc12-4811-aca2-f67947e2135f-heading-1",
+        "template--21228015452442__18c6a569-bc12-4811-aca2-f67947e2135f-text-1",
+        "template--21228015452442__18c6a569-bc12-4811-aca2-f67947e2135f-button-1"
+      ],
+      "custom_css": [
+        "h2 {color: #ff1493;}"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-cca75d06-d90f-4027-b87c-5a450c47e063",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "d38dc27d-4b30-42a2-a77b-ae4b290eb826": {
+      "type": "multirow",
+      "blocks": {
+        "template--21227630952730__d38dc27d-4b30-42a2-a77b-ae4b290eb826-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ju_exotic.webp",
+            "caption": "",
+            "heading": "EXOTIC POLE",
+            "text": "<p>Dança originária da Rússia, com estilo único e extravagante, essa dança trabalha incríveis combos de força, flexibilidade e fluidez em cima de um salto.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "52b237d7-50d2-4545-afe3-0397e9f3c0c7": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "POLE SENSUAL",
+            "text": "<p>Uma dança para evidenciar toda a sensualidade que já existe dentro de toda mulher. Além da coreografia, as aulas nos ajudam a nos reconectar.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0bf51f55-1cd5-4830-919d-4f594fe0f524": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "POLE SPORT",
+            "text": "<p>Aula voltada para a parte acrobática da modalidade, manobras e combos aéreos e de solo. Vertente que traz muito benefício físico como, enrijecimento muscular, força e como todas as outras vertentes, coordenação motora. .<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ac0c4102-08c8-4624-b94a-724fd87a0535": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "POLE FLEX INTENSE",
+            "text": "<p>Aula desenvolvida para treinos de alongamento, alinhamento postural e contorção. Trabalho realizado levando em consideração a estrutura corporal e tempo de resposta de cada um.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "aa417f4c-d7a8-4282-82ee-d426a6f8819f": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "POLE DANCE ROOT",
+            "text": "<p>Pole Raiz, aulas que trazem de volta o Pole Dance como começou, sem distinção. Onde tudo era realizado em uma única coreografia, sensualidade, combos, floor e tudo isso com ou sem salto. Uma modalidade livre, para que se possa explorar todas as possibilidades.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "170f65ca-3427-41c6-abac-fdaf46a7a638": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "TECIDO ACROBÁTICO",
+            "text": "<p>Uma modalidade circense onde aprendemos acrobacias incríveis além de ter todo o benefícios como, resistência física, coordenação motora, fortalecimento muscular além de muita diversão.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21227630952730__d38dc27d-4b30-42a2-a77b-ae4b290eb826-row-1",
+        "52b237d7-50d2-4545-afe3-0397e9f3c0c7",
+        "0bf51f55-1cd5-4830-919d-4f594fe0f524",
+        "ac0c4102-08c8-4624-b94a-724fd87a0535",
+        "aa417f4c-d7a8-4282-82ee-d426a6f8819f",
+        "170f65ca-3427-41c6-abac-fdaf46a7a638"
+      ],
+      "custom_css": [
+        "h2 {color: #00ced1;}"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "row_color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "18c6a569-bc12-4811-aca2-f67947e2135f",
+    "d38dc27d-4b30-42a2-a77b-ae4b290eb826"
+  ]
+}
