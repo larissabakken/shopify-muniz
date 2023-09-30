@@ -203,6 +203,15 @@
             "row_content": "<p>Mudou absurdamente. O Pole virou uma atividade, uma paixão e por último minha profissão. Hoje o Pole é que me mantém financeiramente. Além de tudo isso também mudou a forma que me vejo, minha autoestima e me deu a oportunidade de ajudar outras mulheres.<\/p>",
             "page": ""
           }
+        },
+        "029e6902-c500-41d8-b32f-a0295ac98d57": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Você pratica outras atividades?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Às vezes tento ir pra academia mas sempre paro no meio, atualmente fico só com o pole mesmo. Gerir meu studio e ainda dar aulas consome todo meu tempo.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -210,7 +219,8 @@
         "26c808e6-c1b5-44eb-8fc5-8fcc6a98135f",
         "19f97557-2100-48bf-9cbc-11dd3326003d",
         "3d119942-c491-47db-a9b0-b5c58d14a9ed",
-        "7971e772-ca37-47bd-8689-7b5d7f7f145b"
+        "7971e772-ca37-47bd-8689-7b5d7f7f145b",
+        "029e6902-c500-41d8-b32f-a0295ac98d57"
       ],
       "settings": {
         "caption": "Entrevista com Juliana Muniz",
