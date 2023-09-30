@@ -138,10 +138,10 @@
           "type": "button",
           "settings": {
             "button_label": "Juliana Muniz",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/juliana-muniz",
             "button_style_secondary": false,
             "button_label_2": "Modalidades",
-            "button_link_2": "",
+            "button_link_2": "shopify:\/\/pages\/modalidades",
             "button_style_secondary_2": true
           }
         }
