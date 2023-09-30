@@ -53,6 +53,7 @@
       "settings": {
         "color_scheme": "inverse",
         "newsletter_enable": false,
+
         "newsletter_heading": "Quer saber das novidades diretamente no seu email?",
         "enable_follow_on_shop": false,
         "show_social": false,
