@@ -61,14 +61,14 @@
         "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Descubra a força, a elegância e a versatilidade das nossas modalidades e se surpreenda com o que o pole dance pode fazer por você!<\/p>"
           }
         },
         "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/pages\/modalidades",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
