@@ -35,7 +35,6 @@
       "blocks": {
         "template--21228347064602__9e8b7256-537e-497d-bea3-f84ec048998e-heading-1": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Venha conosco!",
             "heading_size": "h2"
@@ -43,7 +42,6 @@
         },
         "template--21228347064602__9e8b7256-537e-497d-bea3-f84ec048998e-text-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "No Studio Downtown, o objetivo é empoderar mulheres, a fim de incentivá-las a construir uma melhor relação com o próprio corpo e sua vida, elevando a autoconfiança e autoestima das alunas. Juliana, junto a um time de professoras, oferece no estúdio aulas de pole dance nas modalidades Sensual, Exotic Pole, Pole Sport, Strong Pole Sport e Pole Root, além de aulas de tecido acrobático, flexibilidade e alongamento.",
             "text_style": "body"
@@ -71,58 +69,17 @@
 
       ],
       "settings": {
-        "image_2": "shopify:\/\/shop_images\/muniz-studio-b_w.png",
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/muniz-studio-b_w.png",
+        "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "09713160-443f-4747-9106-00dc4225435e": {
-      "type": "image-with-text",
-      "blocks": {
-        "d8ce5068-8e7a-465c-ad17-f04ca9745661": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Venha conosco!",
-            "heading_size": "h2"
-          }
-        },
-        "template--21228347064602__09713160-443f-4747-9106-00dc4225435e-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>No Studio Downtown, o objetivo é empoderar mulheres, a fim de incentivá-las a construir uma melhor relação com o próprio corpo e sua vida, elevando a autoconfiança e autoestima das alunas. Juliana, junto a um time de professoras, oferece no estúdio aulas de pole dance nas modalidades Sensual, Exotic Pole, Pole Sport, Strong Pole Sport e Pole Root, além de aulas de tecido acrobático, flexibilidade e alongamento.<\/h5>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "d8ce5068-8e7a-465c-ad17-f04ca9745661",
-        "template--21228347064602__09713160-443f-4747-9106-00dc4225435e-text-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/muniz-logo-studio.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "scheme-cca75d06-d90f-4027-b87c-5a450c47e063",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "eb9ff2eb-ed63-4fd2-af78-a2d86dbf4129": {
@@ -164,7 +121,6 @@
     "main",
     "92592380-f2e5-4dbf-8cf6-65703ebc48b2",
     "9e8b7256-537e-497d-bea3-f84ec048998e",
-    "09713160-443f-4747-9106-00dc4225435e",
     "eb9ff2eb-ed63-4fd2-af78-a2d86dbf4129"
   ]
 }
