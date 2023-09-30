@@ -123,7 +123,7 @@
         "template--21227852923162__102cc380-0092-495e-ac34-09c8560b7b9f-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Sex Dance Flow",
+            "heading": "SEX DANCE FLOW",
             "heading_size": "h2"
           }
         },
@@ -146,6 +146,10 @@
         "template--21227852923162__102cc380-0092-495e-ac34-09c8560b7b9f-heading-1",
         "template--21227852923162__102cc380-0092-495e-ac34-09c8560b7b9f-text-1",
         "ab99f852-735f-4ac9-b7af-5351e4d8b426"
+      ],
+      "custom_css": [
+        "h2 {color: #00ced1;}",
+        ".rich-text__caption {background-color: #00CED1; border-radius: 20px; padding: 1rem;}"
       ],
       "settings": {
         "desktop_content_position": "center",
