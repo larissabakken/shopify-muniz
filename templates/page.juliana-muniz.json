@@ -149,7 +149,7 @@
       ],
       "custom_css": [
         "h2 {color: #00ced1; font-weight: bolder;}",
-        ".rich-text__caption {background-color: #00ced1; border-radius: 20px; padding: 1rem;}"
+        ".rich-text__caption {font-weight: bolder; background-color: #00ced1; border-radius: 20px; padding: 1rem;}"
       ],
       "settings": {
         "desktop_content_position": "center",
