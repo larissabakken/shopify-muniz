@@ -116,11 +116,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "102cc380-0092-495e-ac34-09c8560b7b9f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21227852923162__102cc380-0092-495e-ac34-09c8560b7b9f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sex Dance Flow",
+            "heading_size": "h2"
+          }
+        },
+        "template--21227852923162__102cc380-0092-495e-ac34-09c8560b7b9f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>O objetivo do SDF é te conectar com sua sensibilidade dentro da dança, seguindo uma linha sensual.<\/p><p>Fazer com que ser sexy seja algo tão natural quanto respirar. Talvez seja exagerado, mas ser sensual não se trata de saber sensualizar numa dança e sim se sentir sensual.<\/p><p>A arte de sensualizar é algo que deve ser trabalhado internamente. Não adianta tentar sensualizar quando não encontramos dentro de nós a sensibilidade de sentir que estamos sendo sexys dentro daquilo que realmente somos.<\/p><p>Aqui você irá encontrar o caminho para se desmistificar e ser a mulher que quiser ser sem se importar com o que irão pensar. Vamos juntas! Eu te dou a mão e te acompanho passo-a-passo nesse mundo incrível onde o centro de tudo é só <strong>VOCÊ.<\/strong><\/p>"
+          }
+        },
+        "ab99f852-735f-4ac9-b7af-5351e4d8b426": {
+          "type": "caption",
+          "settings": {
+            "caption": "Sex Dance Flow - A junção da sensualidade e da sensibilidade.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "template--21227852923162__102cc380-0092-495e-ac34-09c8560b7b9f-heading-1",
+        "template--21227852923162__102cc380-0092-495e-ac34-09c8560b7b9f-text-1",
+        "ab99f852-735f-4ac9-b7af-5351e4d8b426"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "f641e302-bc43-4b40-8387-e2e498a0ad7e",
-    "e7372c99-a4ee-44da-a2a5-c2a174b27e4a"
+    "e7372c99-a4ee-44da-a2a5-c2a174b27e4a",
+    "102cc380-0092-495e-ac34-09c8560b7b9f"
   ]
 }
