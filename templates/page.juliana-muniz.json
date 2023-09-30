@@ -276,6 +276,9 @@
         "5721fb08-563a-403d-a280-3ef08460389b",
         "5db827a5-e875-445d-8ded-c07d7b67ea04"
       ],
+      "custom_css": [
+        "h2 {color: #F1493; font-weight: bolder;}"
+      ],
       "settings": {
         "caption": "",
         "heading": "Entrevista com Juliana Muniz",
