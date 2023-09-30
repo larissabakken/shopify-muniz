@@ -73,7 +73,7 @@
       "settings": {
         "image_2": "shopify:\/\/shop_images\/muniz-studio-b_w.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
