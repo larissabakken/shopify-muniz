@@ -277,7 +277,7 @@
         "5db827a5-e875-445d-8ded-c07d7b67ea04"
       ],
       "custom_css": [
-        "h2 {color: #F1493; font-weight: bolder;}"
+        "h2 {color: #FF1493; font-weight: bolder;}"
       ],
       "settings": {
         "caption": "",
