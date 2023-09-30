@@ -277,7 +277,7 @@
         "5db827a5-e875-445d-8ded-c07d7b67ea04"
       ],
       "custom_css": [
-        "h2 {color: #FF1493; font-weight: bolder;}"
+        "h2 {color: #ff1493; font-weight: bolder;}"
       ],
       "settings": {
         "caption": "",
@@ -285,7 +285,7 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "color_scheme": "scheme-f33146eb-0498-4bd9-8351-ca97cd6eb017",
         "container_color_scheme": "scheme-688f2d30-56fe-4aa7-9fa8-55abe5fefec3",
         "open_first_collapsible_row": false,
         "image": "shopify:\/\/shop_images\/muniz.webp",
