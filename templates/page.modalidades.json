@@ -1,27 +1,5 @@
 {
   "sections": {
-    "e1ebd8cd-73a0-48eb-81da-8693df142014": {
-      "type": "rich-text",
-      "blocks": {
-        "template--21227630952730__e1ebd8cd-73a0-48eb-81da-8693df142014-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Em breve novidades sobre os cursos online!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21227630952730__e1ebd8cd-73a0-48eb-81da-8693df142014-text-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-ca66276b-c6f4-467f-b9ee-0ed84ab633be",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "0d9a23e6-9eec-4b65-94fc-df4d07b798b1": {
       "type": "image-banner",
       "blocks": {
@@ -134,7 +112,6 @@
     }
   },
   "order": [
-    "e1ebd8cd-73a0-48eb-81da-8693df142014",
     "0d9a23e6-9eec-4b65-94fc-df4d07b798b1",
     "main",
     "d38dc27d-4b30-42a2-a77b-ae4b290eb826"
