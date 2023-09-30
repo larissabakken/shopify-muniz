@@ -109,7 +109,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Veja mais entrevistas",
-        "button_link": "",
+        "button_link": "shopify:\/\/blogs\/novidades\/lista-de-entrevistas",
         "color_scheme": "scheme-f33146eb-0498-4bd9-8351-ca97cd6eb017",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
