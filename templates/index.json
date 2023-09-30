@@ -120,18 +120,72 @@
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "850f1c98-bbe9-41d6-855a-e97b37c425da": {
+          "type": "slide",
+          "settings": {
+            "heading": "Pole Sensual",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "f74ae8a6-87e6-4ad9-af92-4303351bad0d": {
+          "type": "slide",
+          "settings": {
+            "heading": "Pole Sport",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a8dbc718-6603-4647-8a86-e0b4c5914747": {
+          "type": "slide",
+          "settings": {
+            "heading": "Pole Flex Intense",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
         "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-1",
-        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2"
+        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2",
+        "850f1c98-bbe9-41d6-855a-e97b37c425da",
+        "f74ae8a6-87e6-4ad9-af92-4303351bad0d",
+        "a8dbc718-6603-4647-8a86-e0b4c5914747"
       ],
       "settings": {
         "layout": "full_bleed",
