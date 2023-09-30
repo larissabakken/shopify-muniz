@@ -239,6 +239,15 @@
             "row_content": "<p>Eu cozinho bem, cozinho desde muito nova, mas não gosto e hoje meu tempo não permite, tenho quem me ajude. Isso incluive me ajuda a comer melhor.<\/p>",
             "page": ""
           }
+        },
+        "5721fb08-563a-403d-a280-3ef08460389b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual é a sua receita irresistível?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Quando eu cozinho é arroz a piamontese com camarão.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -250,7 +259,8 @@
         "029e6902-c500-41d8-b32f-a0295ac98d57",
         "8dd39627-5948-470c-b228-9e013729da63",
         "203747c5-9ba8-4a57-b293-ad775d7ef331",
-        "0040377c-e03b-40be-97c7-f02246fb08cd"
+        "0040377c-e03b-40be-97c7-f02246fb08cd",
+        "5721fb08-563a-403d-a280-3ef08460389b"
       ],
       "settings": {
         "caption": "Entrevista com Juliana Muniz",
