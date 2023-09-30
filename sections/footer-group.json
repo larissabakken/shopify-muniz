@@ -2,6 +2,32 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "4b4c0fe2-eca4-42b2-a139-dfae43a48107": {
+      "type": "newsletter",
+      "blocks": {
+        "sections--21227593498906__4b4c0fe2-eca4-42b2-a139-dfae43a48107-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Seja o primeiro a receber novidades no seu email!<\/p>"
+          }
+        },
+        "sections--21227593498906__4b4c0fe2-eca4-42b2-a139-dfae43a48107-email_form-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "sections--21227593498906__4b4c0fe2-eca4-42b2-a139-dfae43a48107-paragraph-1",
+        "sections--21227593498906__4b4c0fe2-eca4-42b2-a139-dfae43a48107-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -16,7 +42,7 @@
           "type": "text",
           "settings": {
             "heading": "",
-            "subtext": "<p><strong>Endereço:<br\/><\/strong><a href=\"https:\/\/www.google.com.br\/maps\/place\/R.+Andr%C3%A9+Ritucci,+103+-+Centro,+S%C3%A3o+Bernardo+do+Campo+-+SP,+09770-240,+Brasil\/@-23.7142814,-46.5451902,17z\/data=!3m1!4b1!4m6!3m5!1s0x94ce418e53886027:0x2e8197fc2bcca7e5!8m2!3d-23.7142814!4d-46.5426153!16s%2Fg%2F11csl02v_j?coh=178572&entry=tt&shorturl=1\" target=\"_blank\" title=\"https:\/\/www.google.com.br\/maps\/place\/R.+Andr%C3%A9+Ritucci,+103+-+Centro,+S%C3%A3o+Bernardo+do+Campo+-+SP,+09770-240,+Brasil\/@-23.7142814,-46.5451902,17z\/data=!3m1!4b1!4m6!3m5!1s0x94ce418e53886027:0x2e8197fc2bcca7e5!8m2!3d-23.7142814!4d-46.5426153!16s%2Fg%2F11csl02v_j?coh=178572&entry=tt&shorturl=1\">Rua André Ritucci, 103 - Santa Terezinha - São Bernardo do Campo - SP <\/a><br\/><br\/><strong>Email: <\/strong><br\/>downtownstudiodedanca@gmail.com<\/p>"
+            "subtext": "<p><strong>Endereço:<br\/><\/strong><a href=\"https:\/\/www.google.com.br\/maps\/place\/R.+Andr%C3%A9+Ritucci,+103+-+Centro,+S%C3%A3o+Bernardo+do+Campo+-+SP,+09770-240,+Brasil\/@-23.7142814,-46.5451902,17z\/data=!3m1!4b1!4m6!3m5!1s0x94ce418e53886027:0x2e8197fc2bcca7e5!8m2!3d-23.7142814!4d-46.5426153!16s%2Fg%2F11csl02v_j?coh=178572&entry=tt&shorturl=1\" target=\"_blank\" title=\"https:\/\/www.google.com.br\/maps\/place\/R.+Andr%C3%A9+Ritucci,+103+-+Centro,+S%C3%A3o+Bernardo+do+Campo+-+SP,+09770-240,+Brasil\/@-23.7142814,-46.5451902,17z\/data=!3m1!4b1!4m6!3m5!1s0x94ce418e53886027:0x2e8197fc2bcca7e5!8m2!3d-23.7142814!4d-46.5426153!16s%2Fg%2F11csl02v_j?coh=178572&entry=tt&shorturl=1\">Rua André Ritucci, 103 - Santa Terezinha - São Bernardo do Campo - SP <\/a><br\/><br\/><strong>Email: <\/strong><br\/>downtownstudiodedanca@gmail.com<br\/><br\/><strong>Instagram:<\/strong><br\/><a href=\"https:\/\/www.instagram.com\/tecnicajulianamuniz\/\">@tecnicajulianamuniz <\/a><br\/><a href=\"https:\/\/www.instagram.com\/studio.downtown\/\">@studio.downtown <\/a><\/p>"
           }
         }
       },
@@ -26,7 +52,7 @@
       ],
       "settings": {
         "color_scheme": "inverse",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Quer saber das novidades diretamente no seu email?",
         "enable_follow_on_shop": false,
         "show_social": true,
@@ -35,12 +61,13 @@
         "payment_enable": false,
         "show_policy": false,
         "margin_top": 0,
-        "padding_top": 100,
-        "padding_bottom": 100
+        "padding_top": 52,
+        "padding_bottom": 0
       }
     }
   },
   "order": [
+    "4b4c0fe2-eca4-42b2-a139-dfae43a48107",
     "footer"
   ]
 }
