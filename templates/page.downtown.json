@@ -8,28 +8,6 @@
         "padding_bottom": 76
       }
     },
-    "92592380-f2e5-4dbf-8cf6-65703ebc48b2": {
-      "type": "rich-text",
-      "blocks": {
-        "template--21228347064602__92592380-f2e5-4dbf-8cf6-65703ebc48b2-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Em breve novidades sobre os cursos online!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21228347064602__92592380-f2e5-4dbf-8cf6-65703ebc48b2-text-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-80f5e0bd-194a-4422-992c-e804f6df2098",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "9e8b7256-537e-497d-bea3-f84ec048998e": {
       "type": "image-banner",
       "blocks": {
@@ -66,7 +44,7 @@
         "template--21228347064602__9e8b7256-537e-497d-bea3-f84ec048998e-buttons-1"
       ],
       "custom_css": [
-        "h2 {color: #00CED1;}"
+        "h2 {color: #FF1493; }"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/muniz-studio-b_w.png",
@@ -119,7 +97,6 @@
   },
   "order": [
     "main",
-    "92592380-f2e5-4dbf-8cf6-65703ebc48b2",
     "9e8b7256-537e-497d-bea3-f84ec048998e",
     "eb9ff2eb-ed63-4fd2-af78-a2d86dbf4129"
   ]
