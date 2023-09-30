@@ -58,7 +58,7 @@
     "blog_card_style": "standard",
     "blog_card_image_padding": 0,
     "blog_card_text_alignment": "left",
-    "blog_card_color_scheme": "background-2",
+    "blog_card_color_scheme": "scheme-cca75d06-d90f-4027-b87c-5a450c47e063",
     "blog_card_border_thickness": 0,
     "blog_card_border_opacity": 10,
     "blog_card_corner_radius": 20,
@@ -139,10 +139,10 @@
         "settings": {
           "background": "#1e2326",
           "background_gradient": "",
-          "text": "#ffffff",
-          "button": "#eb7200",
+          "text": "#fff",
+          "button": "#fff",
           "button_label": "#ffffff",
-          "secondary_button_label": "#eb7200",
+          "secondary_button_label": "#ff1493",
           "shadow": "#585959"
         }
       },
