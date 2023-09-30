@@ -11,10 +11,18 @@
             "text": "Em breve novidades para cursos on-line",
             "link": ""
           }
+        },
+        "4e21dc23-8082-450c-8a3f-e7ba27f7cd68": {
+          "type": "announcement",
+          "settings": {
+            "text": "Entre em contato pelo whatsapp!",
+            "link": "https:\/\/api.whatsapp.com\/send?phone=5511988481738"
+          }
         }
       },
       "block_order": [
-        "announcement"
+        "announcement",
+        "4e21dc23-8082-450c-8a3f-e7ba27f7cd68"
       ],
       "settings": {
         "color_scheme": "scheme-d1c1123c-9242-47e0-b277-e180af005e90",
