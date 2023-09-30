@@ -248,6 +248,15 @@
             "row_content": "<p>Quando eu cozinho é arroz a piamontese com camarão.<\/p>",
             "page": ""
           }
+        },
+        "5db827a5-e875-445d-8ded-c07d7b67ea04": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Aconselha o pole dance para todas as pessoas?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Ah mas com toda certeza! Hoje as mulheres estão mais ousadas, mais corajosas e se desafiando mto mais. O Pole é algo muito desafiador, as pessoas subestimam demais essa modalidade.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -260,7 +269,8 @@
         "8dd39627-5948-470c-b228-9e013729da63",
         "203747c5-9ba8-4a57-b293-ad775d7ef331",
         "0040377c-e03b-40be-97c7-f02246fb08cd",
-        "5721fb08-563a-403d-a280-3ef08460389b"
+        "5721fb08-563a-403d-a280-3ef08460389b",
+        "5db827a5-e875-445d-8ded-c07d7b67ea04"
       ],
       "settings": {
         "caption": "Entrevista com Juliana Muniz",
