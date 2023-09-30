@@ -11,10 +11,18 @@
             "heading": "",
             "menu": "main-menu"
           }
+        },
+        "fb67027a-8533-455d-86e1-b618760d143e": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": "<p><strong>Endereço:<br\/><\/strong><a href=\"https:\/\/www.google.com.br\/maps\/place\/R.+Andr%C3%A9+Ritucci,+103+-+Centro,+S%C3%A3o+Bernardo+do+Campo+-+SP,+09770-240,+Brasil\/@-23.7142814,-46.5451902,17z\/data=!3m1!4b1!4m6!3m5!1s0x94ce418e53886027:0x2e8197fc2bcca7e5!8m2!3d-23.7142814!4d-46.5426153!16s%2Fg%2F11csl02v_j?coh=178572&entry=tt&shorturl=1\" target=\"_blank\" title=\"https:\/\/www.google.com.br\/maps\/place\/R.+Andr%C3%A9+Ritucci,+103+-+Centro,+S%C3%A3o+Bernardo+do+Campo+-+SP,+09770-240,+Brasil\/@-23.7142814,-46.5451902,17z\/data=!3m1!4b1!4m6!3m5!1s0x94ce418e53886027:0x2e8197fc2bcca7e5!8m2!3d-23.7142814!4d-46.5426153!16s%2Fg%2F11csl02v_j?coh=178572&entry=tt&shorturl=1\">Rua André Ritucci, 103 - Santa Terezinha - São Bernardo do Campo - SP <\/a><br\/><br\/><strong>Email: <\/strong><br\/>downtownstudiodedanca@gmail.com<\/p>"
+          }
         }
       },
       "block_order": [
-        "09d54a82-ece1-4a4c-8f5c-81820c5a45ff"
+        "09d54a82-ece1-4a4c-8f5c-81820c5a45ff",
+        "fb67027a-8533-455d-86e1-b618760d143e"
       ],
       "settings": {
         "color_scheme": "inverse",
