@@ -34,8 +34,11 @@
         "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-text-1",
         "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-buttons-1"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/muniz.webp",
+        "image": "shopify:\/\/shop_images\/ju-banner-home.png",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "bottom-left",
@@ -205,6 +208,7 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/youtu.be\/vZkrpRCSFI0",
+        "cover_image": "shopify:\/\/shop_images\/muniz_thumb_efbff59e-60b0-4284-922d-8b2abf0f4c54.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "scheme-ca66276b-c6f4-467f-b9ee-0ed84ab633be",
@@ -233,7 +237,7 @@
           "type": "button",
           "settings": {
             "button_label": "Saber Mais",
-            "button_link": "shopify:\/\/pages\/contact",
+            "button_link": "shopify:\/\/pages\/downtown",
             "button_style_secondary": true
           }
         }
@@ -244,7 +248,7 @@
         "template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/logo_fenrir_2.png",
+        "image": "shopify:\/\/shop_images\/ju-front-downtown.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
