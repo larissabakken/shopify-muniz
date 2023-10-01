@@ -6,9 +6,62 @@
         "padding_top": 36,
         "padding_bottom": 76
       }
+    },
+    "022fbe3b-94a3-43b5-9823-2d67f5d70a96": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21228925518106__022fbe3b-94a3-43b5-9823-2d67f5d70a96-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--21228925518106__022fbe3b-94a3-43b5-9823-2d67f5d70a96-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--21228925518106__022fbe3b-94a3-43b5-9823-2d67f5d70a96-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21228925518106__022fbe3b-94a3-43b5-9823-2d67f5d70a96-heading-1",
+        "template--21228925518106__022fbe3b-94a3-43b5-9823-2d67f5d70a96-text-1",
+        "template--21228925518106__022fbe3b-94a3-43b5-9823-2d67f5d70a96-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "0ce9523b-6c92-4bc3-aac2-3e9ded6428c4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div>\n<h2>\n<svg style=\"color: white\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" class=\"icon icon-tabler icon-tabler-discount-2\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"> <path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"white\"><\/path> <line x1=\"9\" y1=\"15\" x2=\"15\" y2=\"9\"><\/line> <circle cx=\"9.5\" cy=\"9.5\" r=\".5\" fill=\"currentColor\"><\/circle> <circle cx=\"14.5\" cy=\"14.5\" r=\".5\" fill=\"none\"><\/circle> <path d=\"M5 7.2a2.2 2.2 0 0 1 2.2 -2.2h1a2.2 2.2 0 0 0 1.55 -.64l.7 -.7a2.2 2.2 0 0 1 3.12 0l.7 .7a2.2 2.2 0 0 0 1.55 .64h1a2.2 2.2 0 0 1 2.2 2.2v1a2.2 2.2 0 0 0 .64 1.55l.7 .7a2.2 2.2 0 0 1 0 3.12l-.7 .7a2.2 2.2 0 0 0 -.64 1.55v1a2.2 2.2 0 0 1 -2.2 2.2h-1a2.2 2.2 0 0 0 -1.55 .64l-.7 .7a2.2 2.2 0 0 1 -3.12 0l-.7 -.7a2.2 2.2 0 0 0 -1.55 -.64h-1a2.2 2.2 0 0 1 -2.2 -2.2v-1a2.2 2.2 0 0 0 -.64 -1.55l-.7 -.7a2.2 2.2 0 0 1 0 -3.12l.7 -.7a2.2 2.2 0 0 0 .64 -1.55v-1\" fill=\"white\"><\/path> <\/svg>\nPromocional<\/h2>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "022fbe3b-94a3-43b5-9823-2d67f5d70a96",
+    "0ce9523b-6c92-4bc3-aac2-3e9ded6428c4"
   ]
 }
