@@ -99,7 +99,7 @@
         "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/muniz.webp",
+            "image": "shopify:\/\/shop_images\/Juliana-28-Editar_c784a1c3-9124-4bed-8ad7-5a85c459bd14.jpg",
             "heading": "Pole Dance Root",
             "heading_size": "h2",
             "subheading": "",
@@ -117,6 +117,7 @@
         "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ju-exotic.jpg",
             "heading": "Exotic Pole",
             "heading_size": "h2",
             "subheading": "",
@@ -134,6 +135,7 @@
         "850f1c98-bbe9-41d6-855a-e97b37c425da": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/sensual.webp",
             "heading": "Pole Sensual",
             "heading_size": "h2",
             "subheading": "",
@@ -151,6 +153,7 @@
         "f74ae8a6-87e6-4ad9-af92-4303351bad0d": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/sport.webp",
             "heading": "Pole Sport",
             "heading_size": "h2",
             "subheading": "",
@@ -168,7 +171,8 @@
         "a8dbc718-6603-4647-8a86-e0b4c5914747": {
           "type": "slide",
           "settings": {
-            "heading": "Pole Flex Intense",
+            "image": "shopify:\/\/shop_images\/ju-flex.jpg",
+            "heading": "Pole Flex Intensive",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
