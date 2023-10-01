@@ -70,6 +70,7 @@
         "52b237d7-50d2-4545-afe3-0397e9f3c0c7": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/sensual.webp",
             "caption": "",
             "heading": "POLE SENSUAL",
             "text": "<p>Uma dança para evidenciar toda a sensualidade que já existe dentro de toda mulher. Além da coreografia, as aulas nos ajudam a nos reconectar.<\/p>",
@@ -80,6 +81,7 @@
         "0bf51f55-1cd5-4830-919d-4f594fe0f524": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/sport.webp",
             "caption": "",
             "heading": "POLE SPORT",
             "text": "<p>Aula voltada para a parte acrobática da modalidade, manobras e combos aéreos e de solo. Vertente que traz muito benefício físico como, enrijecimento muscular, força e como todas as outras vertentes, coordenação motora. .<\/p>",
@@ -90,6 +92,7 @@
         "ac0c4102-08c8-4624-b94a-724fd87a0535": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/flex.webp",
             "caption": "",
             "heading": "POLE FLEX INTENSE",
             "text": "<p>Aula desenvolvida para treinos de alongamento, alinhamento postural e contorção. Trabalho realizado levando em consideração a estrutura corporal e tempo de resposta de cada um.<\/p>",
@@ -100,6 +103,7 @@
         "aa417f4c-d7a8-4282-82ee-d426a6f8819f": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/muniz.webp",
             "caption": "",
             "heading": "POLE DANCE ROOT",
             "text": "<p>Pole Raiz, aulas que trazem de volta o Pole Dance como começou, sem distinção. Onde tudo era realizado em uma única coreografia, sensualidade, combos, floor e tudo isso com ou sem salto. Uma modalidade livre, para que se possa explorar todas as possibilidades.<\/p>",
@@ -110,6 +114,7 @@
         "170f65ca-3427-41c6-abac-fdaf46a7a638": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/tecido.webp",
             "caption": "",
             "heading": "TECIDO ACROBÁTICO",
             "text": "<p>Uma modalidade circense onde aprendemos acrobacias incríveis além de ter todo o benefícios como, resistência física, coordenação motora, fortalecimento muscular além de muita diversão.<\/p>",
