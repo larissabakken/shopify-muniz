@@ -8,19 +8,27 @@
         "announcement": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "Em breve novidades para cursos on-line",
             "link": ""
+          }
+        },
+        "4e21dc23-8082-450c-8a3f-e7ba27f7cd68": {
+          "type": "announcement",
+          "settings": {
+            "text": "Entre em contato pelo whatsapp!",
+            "link": "https:\/\/api.whatsapp.com\/send?phone=5511988481738"
           }
         }
       },
       "block_order": [
-        "announcement"
+        "announcement",
+        "4e21dc23-8082-450c-8a3f-e7ba27f7cd68"
       ],
       "settings": {
         "color_scheme": "scheme-d1c1123c-9242-47e0-b277-e180af005e90",
         "show_line_separator": true,
-        "show_social": false,
-        "auto_rotate": false,
+        "show_social": true,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
@@ -32,16 +40,16 @@
         "logo_position": "middle-left",
         "menu": "main-menu",
         "menu_type_desktop": "mega",
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "always",
         "show_line_separator": false,
-        "color_scheme": "scheme-cca75d06-d90f-4027-b87c-5a450c47e063",
+        "color_scheme": "inverse",
         "menu_color_scheme": "background-1",
-        "enable_country_selector": true,
-        "enable_language_selector": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
         "mobile_logo_position": "center",
         "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 12
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     }
   },

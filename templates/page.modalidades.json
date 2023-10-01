@@ -47,7 +47,7 @@
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
-        "color_scheme": "scheme-cca75d06-d90f-4027-b87c-5a450c47e063",
+        "color_scheme": "scheme-f33146eb-0498-4bd9-8351-ca97cd6eb017",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 40
@@ -130,19 +130,19 @@
         "h2 {color: #00ced1;}"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
+        "image_height": "adapt",
+        "desktop_image_width": "small",
         "heading_size": "h2",
         "text_style": "body",
         "button_style": "secondary",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-right",
         "section_color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
         "row_color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },

@@ -29,7 +29,7 @@
           "type": "button",
           "settings": {
             "button_label": "Saiba mais sobre Juliana Muniz",
-            "button_link": "",
+            "button_link": "shopify:\/\/blogs\/novidades\/quem-e-juliana-muniz",
             "button_style_secondary": true
           }
         }
@@ -101,7 +101,7 @@
         "5c59ba06-6eb5-4d57-830e-c7d814dc3902"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -109,12 +109,12 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Veja mais entrevistas",
-        "button_link": "",
-        "color_scheme": "scheme-f33146eb-0498-4bd9-8351-ca97cd6eb017",
+        "button_link": "shopify:\/\/blogs\/novidades\/lista-de-entrevistas",
+        "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 16
       }
     },
     "102cc380-0092-495e-ac34-09c8560b7b9f": {
@@ -123,7 +123,7 @@
         "template--21227852923162__102cc380-0092-495e-ac34-09c8560b7b9f-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Sex Dance Flow",
+            "heading": "SEX DANCE FLOW",
             "heading_size": "h2"
           }
         },
@@ -147,10 +147,14 @@
         "template--21227852923162__102cc380-0092-495e-ac34-09c8560b7b9f-text-1",
         "ab99f852-735f-4ac9-b7af-5351e4d8b426"
       ],
+      "custom_css": [
+        "h2 {color: #00ced1; font-weight: bolder;}",
+        ".rich-text__caption {color: white; font-weight: bolder; background-color: #00ced1; border-radius: 20px; padding: 1rem;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "color_scheme": "scheme-f33146eb-0498-4bd9-8351-ca97cd6eb017",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -173,27 +177,120 @@
           "settings": {
             "heading": "Como você se sente sendo referência no Brasil quando falamos sobre Pole Dance?",
             "icon": "chat_bubble",
-            "row_content": "",
+            "row_content": "<p>Eu me sinto muito lisonjeada, porém sei que é fruto de muito trabalho. Acredito que todo mundo deseja ser referência dentro da área que atua e eu sou muito feliz porque amo o que eu faço<\/p>",
+            "page": ""
+          }
+        },
+        "19f97557-2100-48bf-9cbc-11dd3326003d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quais os benefícios do pole dance em termos de exercício, de uma atividade?",
+            "icon": "chat_bubble",
+            "row_content": "<p>O pole é completo, trabalha coordenação motora, fortalece a musculatura, emagrece (se for o objetivo), além de tudo isso trabalha autoestima, amor próprio e autoconfiança.<\/p>",
+            "page": ""
+          }
+        },
+        "3d119942-c491-47db-a9b0-b5c58d14a9ed": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "O pole dance é uma atividade aeróbica e que proporciona uma grande perda calórica, certo?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Certo. Embora cada corpo tenha seu próprio tempo de resposta, alguns estudos apontam que praticar Pole Dance pode queimar até 700 calorias em uma aula.<\/p>",
+            "page": ""
+          }
+        },
+        "7971e772-ca37-47bd-8689-7b5d7f7f145b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "A sua vida mudou após mergulhar fundo no universo do pole dance?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Mudou absurdamente. O Pole virou uma atividade, uma paixão e por último minha profissão. Hoje o Pole é que me mantém financeiramente. Além de tudo isso também mudou a forma que me vejo, minha autoestima e me deu a oportunidade de ajudar outras mulheres.<\/p>",
+            "page": ""
+          }
+        },
+        "029e6902-c500-41d8-b32f-a0295ac98d57": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Você pratica outras atividades?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Às vezes tento ir pra academia mas sempre paro no meio, atualmente fico só com o pole mesmo. Gerir meu studio e ainda dar aulas consome todo meu tempo.<\/p>",
+            "page": ""
+          }
+        },
+        "8dd39627-5948-470c-b228-9e013729da63": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "É cuidadosa com a alimentação diária? O que evitar colocar no prato?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Eu sou péssima hahaha, mas tento não comer muita fritura, fast food e açúcar, mas as vezes escorrego.<\/p>",
+            "page": ""
+          }
+        },
+        "203747c5-9ba8-4a57-b293-ad775d7ef331": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual é o seu pecado da gula?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Amo carboidrato. Meu pecado é bolo e pão hahaha<\/p>",
+            "page": ""
+          }
+        },
+        "0040377c-e03b-40be-97c7-f02246fb08cd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Você é boa na cozinha, comanda o mundo do forno e fogão com maestria?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Eu cozinho bem, cozinho desde muito nova, mas não gosto e hoje meu tempo não permite, tenho quem me ajude. Isso incluive me ajuda a comer melhor.<\/p>",
+            "page": ""
+          }
+        },
+        "5721fb08-563a-403d-a280-3ef08460389b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual é a sua receita irresistível?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Quando eu cozinho é arroz a piamontese com camarão.<\/p>",
+            "page": ""
+          }
+        },
+        "5db827a5-e875-445d-8ded-c07d7b67ea04": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Aconselha o pole dance para todas as pessoas?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Ah mas com toda certeza! Hoje as mulheres estão mais ousadas, mais corajosas e se desafiando mto mais. O Pole é algo muito desafiador, as pessoas subestimam demais essa modalidade.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "template--21227852923162__bb9dd3a0-412a-4dbe-9ac4-be9b5591b933-collapsible_row-1",
-        "26c808e6-c1b5-44eb-8fc5-8fcc6a98135f"
+        "26c808e6-c1b5-44eb-8fc5-8fcc6a98135f",
+        "19f97557-2100-48bf-9cbc-11dd3326003d",
+        "3d119942-c491-47db-a9b0-b5c58d14a9ed",
+        "7971e772-ca37-47bd-8689-7b5d7f7f145b",
+        "029e6902-c500-41d8-b32f-a0295ac98d57",
+        "8dd39627-5948-470c-b228-9e013729da63",
+        "203747c5-9ba8-4a57-b293-ad775d7ef331",
+        "0040377c-e03b-40be-97c7-f02246fb08cd",
+        "5721fb08-563a-403d-a280-3ef08460389b",
+        "5db827a5-e875-445d-8ded-c07d7b67ea04"
+      ],
+      "custom_css": [
+        "h2 {color: #ff1493; font-weight: bolder;}"
       ],
       "settings": {
-        "caption": "Entrevista com Juliana Muniz",
-        "heading": "Collapsible content",
+        "caption": "",
+        "heading": "Entrevista com Juliana Muniz",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "color_scheme": "background-1",
         "container_color_scheme": "scheme-688f2d30-56fe-4aa7-9fa8-55abe5fefec3",
         "open_first_collapsible_row": false,
         "image": "shopify:\/\/shop_images\/muniz.webp",
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "image_ratio": "large",
+        "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
       }

@@ -64,14 +64,14 @@
         "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Descubra a força, a elegância e a versatilidade das nossas modalidades e se surpreenda com o que o pole dance pode fazer por você!<\/p>"
           }
         },
         "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/pages\/modalidades",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -100,7 +100,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/muniz.webp",
-            "heading": "Image slide",
+            "heading": "Pole Dance Root",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
@@ -110,31 +110,85 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
             "text_alignment_mobile": "center"
           }
         },
         "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "heading": "Exotic Pole",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "850f1c98-bbe9-41d6-855a-e97b37c425da": {
+          "type": "slide",
+          "settings": {
+            "heading": "Pole Sensual",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "f74ae8a6-87e6-4ad9-af92-4303351bad0d": {
+          "type": "slide",
+          "settings": {
+            "heading": "Pole Sport",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a8dbc718-6603-4647-8a86-e0b4c5914747": {
+          "type": "slide",
+          "settings": {
+            "heading": "Pole Flex Intense",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
         "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-1",
-        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2"
+        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2",
+        "850f1c98-bbe9-41d6-855a-e97b37c425da",
+        "f74ae8a6-87e6-4ad9-af92-4303351bad0d",
+        "a8dbc718-6603-4647-8a86-e0b4c5914747"
       ],
       "settings": {
         "layout": "full_bleed",
