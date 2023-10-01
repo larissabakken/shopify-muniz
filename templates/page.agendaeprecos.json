@@ -60,11 +60,24 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "d3094800-4f8a-4d64-8271-43fdd4c8ff1e": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "<h2>Responsive Table<\/h2>\n<div class=\"table-wrapper\">\n  <table class=\"fl-table\">\n    <thead>\n    <tr>\n      <th>Header 1<\/th>\n      <th>Header 2<\/th>\n      <th>Header 3<\/th>\n      <th>Header 4<\/th>\n      <th>Header 5<\/th>\n    <\/tr>\n    <\/thead>\n    <tbody>\n    <tr>\n      <td>Content 1<\/td>\n      <td>Content 1<\/td>\n      <td>Content 1<\/td>\n      <td>Content 1<\/td>\n      <td>Content 1<\/td>\n    <\/tr>\n    <tr>\n      <td>Content 2<\/td>\n      <td>Content 2<\/td>\n      <td>Content 2<\/td>\n      <td>Content 2<\/td>\n      <td>Content 2<\/td>\n    <\/tr>\n    <tr>\n      <td>Content 3<\/td>\n      <td>Content 3<\/td>\n      <td>Content 3<\/td>\n      <td>Content 3<\/td>\n      <td>Content 3<\/td>\n    <\/tr>\n    <tr>\n      <td>Content 4<\/td>\n      <td>Content 4<\/td>\n      <td>Content 4<\/td>\n      <td>Content 4<\/td>\n      <td>Content 4<\/td>\n    <\/tr>\n    <tr>\n      <td>Content 5<\/td>\n      <td>Content 5<\/td>\n      <td>Content 5<\/td>\n      <td>Content 5<\/td>\n      <td>Content 5<\/td>\n    <\/tr>\n    <tr>\n      <td>Content 6<\/td>\n      <td>Content 6<\/td>\n      <td>Content 6<\/td>\n      <td>Content 6<\/td>\n      <td>Content 6<\/td>\n    <\/tr>\n    <tr>\n      <td>Content 7<\/td>\n      <td>Content 7<\/td>\n      <td>Content 7<\/td>\n      <td>Content 7<\/td>\n      <td>Content 7<\/td>\n    <\/tr>\n    <tr>\n      <td>Content 8<\/td>\n      <td>Content 8<\/td>\n      <td>Content 8<\/td>\n      <td>Content 8<\/td>\n      <td>Content 8<\/td>\n    <\/tr>\n    <tr>\n      <td>Content 9<\/td>\n      <td>Content 9<\/td>\n      <td>Content 9<\/td>\n      <td>Content 9<\/td>\n      <td>Content 9<\/td>\n    <\/tr>\n    <tr>\n      <td>Content 10<\/td>\n      <td>Content 10<\/td>\n      <td>Content 10<\/td>\n      <td>Content 10<\/td>\n      <td>Content 10<\/td>\n    <\/tr>\n    <tbody>\n  <\/table>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "022fbe3b-94a3-43b5-9823-2d67f5d70a96",
-    "0ce9523b-6c92-4bc3-aac2-3e9ded6428c4"
+    "0ce9523b-6c92-4bc3-aac2-3e9ded6428c4",
+    "d3094800-4f8a-4d64-8271-43fdd4c8ff1e"
   ]
 }
