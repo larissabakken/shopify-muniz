@@ -75,10 +75,10 @@
     "03727c3c-4f0f-4e81-9fd2-ab67d4f7c06c": {
       "type": "custom-liquid",
       "custom_css": [
-        "svg {color: white;}"
+
       ],
       "settings": {
-        "custom_liquid": "<div>\n  <h2>\n    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"35\" height=\"auto\" viewBox=\"0 0 512 512\"><title>ionicons-v5-p<\/title><path d=\"M435.25,48H312.35a14.46,14.46,0,0,0-10.2,4.2L56.45,297.9a28.85,28.85,0,0,0,0,40.7l117,117a28.85,28.85,0,0,0,40.7,0L459.75,210a14.46,14.46,0,0,0,4.2-10.2V76.8A28.66,28.66,0,0,0,435.25,48Z\" style=\"fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px\"\/><path d=\"M384,160a32,32,0,1,1,32-32A32,32,0,0,1,384,160Z\"\/><\/svg>\n    Promocional\n  <\/h2>\n<\/div>",
+        "custom_liquid": "<div>\n  <h2>\n <svg style=\"color: white\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><title>ionicons-v5-p<\/title><path d=\"M288,16,0,304,176,480,464,192V16Zm80,128a32,32,0,1,1,32-32A32,32,0,0,1,368,144Z\" fill=\"white\"><\/path><polygon points=\"480 64 480 208 216.9 471.1 242 496 512 224 512 64 480 64\"><\/polygon><\/svg>\n    Preços e Horários\n  <\/h2>\n<\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
