@@ -66,6 +66,10 @@
         "buy_buttons",
         "share"
       ],
+      "custom_css": [
+        "span:nth-child(2) {color: #00ced1;}",
+        "button {color: #FCFAFA;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": "medium",
