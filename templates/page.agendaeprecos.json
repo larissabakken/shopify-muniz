@@ -108,18 +108,9 @@
         "template--21228925518106__36a55470-eeee-46b3-9b95-7f0bc5bf6ce4-collapsible_row-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--21228925518106__36a55470-eeee-46b3-9b95-7f0bc5bf6ce4-collapsible_row-4": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "PLANO VIP (QUANTIDADES DE AULAS LIVRES)",
+            "icon": "price_tag",
+            "row_content": "<p>Mensal: 1x R$550,00<br\/>Trimestral: 3x R$495,00<br\/>Semestral: 6x R$440,00<\/p>",
             "page": ""
           }
         }
@@ -127,8 +118,7 @@
       "block_order": [
         "template--21228925518106__36a55470-eeee-46b3-9b95-7f0bc5bf6ce4-collapsible_row-1",
         "template--21228925518106__36a55470-eeee-46b3-9b95-7f0bc5bf6ce4-collapsible_row-2",
-        "template--21228925518106__36a55470-eeee-46b3-9b95-7f0bc5bf6ce4-collapsible_row-3",
-        "template--21228925518106__36a55470-eeee-46b3-9b95-7f0bc5bf6ce4-collapsible_row-4"
+        "template--21228925518106__36a55470-eeee-46b3-9b95-7f0bc5bf6ce4-collapsible_row-3"
       ],
       "settings": {
         "caption": "",
