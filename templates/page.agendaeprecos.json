@@ -99,9 +99,9 @@
         "template--21228925518106__36a55470-eeee-46b3-9b95-7f0bc5bf6ce4-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Duas aulas por semana",
+            "icon": "price_tag",
+            "row_content": "<p><strong>Mensal: 1x R$321,20<br\/>Trimestral: 3x R$308,00<br\/>Quadrimestral: 4x R$273,80<br\/>Semestral: 6x R$230,39<\/strong><\/p>",
             "page": ""
           }
         },
