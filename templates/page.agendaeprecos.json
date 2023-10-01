@@ -52,7 +52,7 @@
         "heading_alignment": "center",
         "layout": "row",
         "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
-        "container_color_scheme": "",
+        "container_color_scheme": "scheme-688f2d30-56fe-4aa7-9fa8-55abe5fefec3",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -67,6 +67,18 @@
       ],
       "settings": {
         "custom_liquid": "<style>\n    .table-wrapper {\n        margin: 10px 70px 70px;\n        box-shadow: 0px 35px 50px rgba(0, 0, 0, 0.2);\n    }\n\n    .fl-table {\n        color: #292929;\n        font-size: 12px;\n        font-weight: normal;\n        border: none;\n        border-collapse: collapse;\n        width: 100%;\n        max-width: 100%;\n        white-space: nowrap;\n        background-color: #FCFAFA;\n    }\n\n    .fl-table td, .fl-table th {\n        text-align: center;\n        padding: 8px;\n    }\n\n    .fl-table td {\n        border-right: 1px solid #f8f8f8;\n        font-size: 12px;\n    }\n\n    .fl-table thead th {\n        color: #ffffff;\n        background: #FF1493;\n    }\n\n\n    .fl-table thead th:nth-child(odd) {\n        color: #ffffff;\n        background: #FF1493;\n    }\n\n    .fl-table tr:nth-child(even) {\n        background: #F5F5F5;\n    }\n\n    \/* Responsive *\/\n\n    @media (max-width: 767px) {\n        .fl-table {\n            display: block;\n            width: 100%;\n        }\n\n        .table-wrapper:before {\n            content: \"Arraste o scroll para o lado ->\";\n            display: block;\n            text-align: right;\n            font-size: 11px;\n            color: white;\n            padding: 0 0 10px;\n        }\n\n        .fl-table thead, .fl-table tbody, .fl-table thead th {\n            display: block;\n        }\n\n        .fl-table thead th:last-child {\n            border-bottom: none;\n        }\n\n        .fl-table thead {\n            float: left;\n        }\n\n        .fl-table tbody {\n            width: auto;\n            position: relative;\n            overflow-x: auto;\n        }\n\n        .fl-table td, .fl-table th {\n            padding: 20px .625em .625em .625em;\n            height: 60px;\n            vertical-align: middle;\n            box-sizing: border-box;\n            overflow-x: hidden;\n            overflow-y: auto;\n            width: 120px;\n            font-size: 13px;\n            text-overflow: ellipsis;\n        }\n\n        .fl-table thead th {\n            text-align: left;\n            border-bottom: 1px solid #f7f7f9;\n        }\n\n        .fl-table tbody tr {\n            display: table-cell;\n        }\n\n        .fl-table tbody tr:nth-child(odd) {\n            background: none;\n        }\n\n        .fl-table tr:nth-child(even) {\n            background: transparent;\n        }\n\n        .fl-table tr td:nth-child(odd) {\n            background: #F8F8F8;\n            border-right: 1px solid #E6E4E4;\n        }\n\n        .fl-table tr td:nth-child(even) {\n            border-right: 1px solid #E6E4E4;\n        }\n\n        .fl-table tbody td {\n            display: block;\n            text-align: center;\n        }\n    }\n<\/style>\n\n\n<div class='table-wrapper'>\n  <table class='fl-table'>\n    <thead>\n    <tr>\n      <th>Horários<\/th>\n      <th>Segunda<\/th>\n      <th>Terça<\/th>\n      <th>Quarta<\/th>\n      <th>Quinta<\/th>\n      <th>Sexta<\/th>\n      <th>Sábado<\/th>\n    <\/tr>\n    <\/thead>\n    <tbody>\n    <tr>\n      <td>09:00<\/td>\n      <td>-<\/td>\n      <td>Pole Sport<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n    <\/tr>\n    <tr>\n      <td>13:00<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>Pole Sport<\/td>\n    <\/tr>\n    <tr>\n      <td>14:00<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>-<\/td>\n      <td>Exotic Pole<\/td>\n    <\/tr>\n    <tr>\n      <td>15:00<\/td>\n      <td>-<\/td>\n      <td>Flex Intense<\/td>\n      <td>-<\/td>\n      <td>Flex Intense<\/td>\n      <td>-<\/td>\n      <td>Tecido Acrobático<\/td>\n    <\/tr>\n    <tr>\n      <td>16:00<\/td>\n      <td>Pole Sensual<\/td>\n      <td>Pole Sport<\/td>\n      <td>-<\/td>\n      <td>Pole Sport<\/td>\n      <td>Flex Intense<\/td>\n      <td>Flexibilidade<\/td>\n    <\/tr>\n    <tr>\n      <td>17:00<\/td>\n      <td>Pole Sport<\/td>\n      <td>Pole Spin<\/td>\n      <td>Pole Sport<\/td>\n      <td>Pole Root<\/td>\n      <td>-<\/td>\n      <td>Pole Sport<\/td>\n    <\/tr>\n    <tbody>\n  <\/table>\n<\/div>",
+        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "03727c3c-4f0f-4e81-9fd2-ab67d4f7c06c": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "svg {color: white;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div>\n  <h2>\n    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"35\" height=\"auto\" viewBox=\"0 0 512 512\"><title>ionicons-v5-p<\/title><path d=\"M435.25,48H312.35a14.46,14.46,0,0,0-10.2,4.2L56.45,297.9a28.85,28.85,0,0,0,0,40.7l117,117a28.85,28.85,0,0,0,40.7,0L459.75,210a14.46,14.46,0,0,0,4.2-10.2V76.8A28.66,28.66,0,0,0,435.25,48Z\" style=\"fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px\"\/><path d=\"M384,160a32,32,0,1,1,32-32A32,32,0,0,1,384,160Z\"\/><\/svg>\n    Promocional\n  <\/h2>\n<\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -77,6 +89,7 @@
     "main",
     "0ce9523b-6c92-4bc3-aac2-3e9ded6428c4",
     "6924e411-349f-411a-9f99-38fc20a333db",
-    "d3094800-4f8a-4d64-8271-43fdd4c8ff1e"
+    "d3094800-4f8a-4d64-8271-43fdd4c8ff1e",
+    "03727c3c-4f0f-4e81-9fd2-ab67d4f7c06c"
   ]
 }
