@@ -1,1 +1,60 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":36,"padding_bottom":36}},"contact-form":{"type":"contact-form","settings":{"heading":"","heading_size":"h1","color_scheme":"background-1","padding_top":36,"padding_bottom":68}}},"order":["main","contact-form"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact-form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "3b9871b9-b0ba-4292-a03d-1ee5c28a922c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21227632787738__3b9871b9-b0ba-4292-a03d-1ee5c28a922c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Responderemos o mais breve possível. Caso prefira entre em contato diretamente no whatsapp<\/p>"
+          }
+        },
+        "template--21227632787738__3b9871b9-b0ba-4292-a03d-1ee5c28a922c-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Whatsapp",
+            "button_link": "https:\/\/api.whatsapp.com\/send?phone=5511988481738",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21227632787738__3b9871b9-b0ba-4292-a03d-1ee5c28a922c-text-1",
+        "template--21227632787738__3b9871b9-b0ba-4292-a03d-1ee5c28a922c-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact-form",
+    "3b9871b9-b0ba-4292-a03d-1ee5c28a922c"
+  ]
+}

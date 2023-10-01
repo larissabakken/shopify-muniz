@@ -34,8 +34,11 @@
         "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-text-1",
         "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-buttons-1"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/muniz.webp",
+        "image": "shopify:\/\/shop_images\/ju-banner-home.png",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "bottom-left",
@@ -61,14 +64,14 @@
         "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Descubra a força, a elegância e a versatilidade das nossas modalidades e se surpreenda com o que o pole dance pode fazer por você!<\/p>"
           }
         },
         "template--21064322547994__87636941-e860-4a3d-bfa4-866dd0c2c059-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/pages\/modalidades",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -96,42 +99,100 @@
         "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/muniz.webp",
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/Juliana-28-Editar_c784a1c3-9124-4bed-8ad7-5a85c459bd14.jpg",
+            "heading": "Pole Dance Root",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "bottom-center",
+            "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
             "text_alignment_mobile": "center"
           }
         },
         "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/ju-exotic.jpg",
+            "heading": "Exotic Pole",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "850f1c98-bbe9-41d6-855a-e97b37c425da": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sensual.webp",
+            "heading": "Pole Sensual",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "f74ae8a6-87e6-4ad9-af92-4303351bad0d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sport.webp",
+            "heading": "Pole Sport",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a8dbc718-6603-4647-8a86-e0b4c5914747": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ju-flex.jpg",
+            "heading": "Pole Flex Intensive",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
         "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-1",
-        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2"
+        "template--21064322547994__451e018e-d1e7-48cc-8087-31e6200b7bfa-slide-2",
+        "850f1c98-bbe9-41d6-855a-e97b37c425da",
+        "f74ae8a6-87e6-4ad9-af92-4303351bad0d",
+        "a8dbc718-6603-4647-8a86-e0b4c5914747"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -151,6 +212,7 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/youtu.be\/vZkrpRCSFI0",
+        "cover_image": "shopify:\/\/shop_images\/muniz_thumb_efbff59e-60b0-4284-922d-8b2abf0f4c54.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "scheme-ca66276b-c6f4-467f-b9ee-0ed84ab633be",
@@ -179,7 +241,7 @@
           "type": "button",
           "settings": {
             "button_label": "Saber Mais",
-            "button_link": "shopify:\/\/pages\/contact",
+            "button_link": "shopify:\/\/pages\/downtown",
             "button_style_secondary": true
           }
         }
@@ -190,7 +252,7 @@
         "template--21064322547994__103c385b-ec1b-4c45-a05d-182b030929c0-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/logo_fenrir_2.png",
+        "image": "shopify:\/\/shop_images\/ju-front-downtown.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
