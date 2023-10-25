@@ -28,8 +28,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_011.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "top-left",
+        "image_height": "medium",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
