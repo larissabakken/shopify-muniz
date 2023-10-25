@@ -124,7 +124,7 @@
       ],
       "custom_css": [
         "h2 {color: #ff1493;}",
-        "p {font-size: 4rem;}"
+        "li {font-size: 2.2rem;}"
       ],
       "settings": {
         "image_height": "medium",
