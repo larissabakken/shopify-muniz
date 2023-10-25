@@ -137,12 +137,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1836d114-4300-41f2-94fa-11836789e94e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21430821814554__1836d114-4300-41f2-94fa-11836789e94e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Workshop - Sexy Old Strip",
+            "heading_size": "h1"
+          }
+        },
+        "template--21430821814554__1836d114-4300-41f2-94fa-11836789e94e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21430821814554__1836d114-4300-41f2-94fa-11836789e94e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21430821814554__1836d114-4300-41f2-94fa-11836789e94e-heading-1",
+        "template--21430821814554__1836d114-4300-41f2-94fa-11836789e94e-text-1",
+        "template--21430821814554__1836d114-4300-41f2-94fa-11836789e94e-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_023.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "61296c23-5eae-408e-bfe7-2cc0b44767e8",
     "634de99f-501f-4107-a498-9ad28b69352a",
-    "76944fd2-8883-4cb3-8345-33d9fb3274d5"
+    "76944fd2-8883-4cb3-8345-33d9fb3274d5",
+    "1836d114-4300-41f2-94fa-11836789e94e"
   ]
 }
