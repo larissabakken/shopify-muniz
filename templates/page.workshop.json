@@ -26,10 +26,10 @@
         ".banner__box.gradient {opacity: 0.8;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/sensual.webp",
+        "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_011.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "bottom-right",
+        "desktop_content_position": "top-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-dde043e5-938c-4db5-a554-055d38f801c0",
