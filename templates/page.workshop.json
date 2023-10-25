@@ -151,16 +151,16 @@
         "template--21430821814554__1836d114-4300-41f2-94fa-11836789e94e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<h3><strong>Informações: <\/strong><\/h3><ul><li><strong>Duração de 1 hora e 30 minutos<\/strong><\/li><li><strong>Valor de R$120,00<\/strong><\/li><li><strong>Mínimo de 6 alunas ou 2 works com 4 alunas<\/strong><\/li><li><strong>Passagem e hospedagem por conta do contratante<\/strong><\/li><\/ul>",
             "text_style": "body"
           }
         },
         "template--21430821814554__1836d114-4300-41f2-94fa-11836789e94e-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "button_label": "Entre em contato",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": true
           }
         }
       },
@@ -177,7 +177,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "scheme-f33146eb-0498-4bd9-8351-ca97cd6eb017",
         "image_behavior": "ambient",
         "mobile_content_alignment": "left",
         "padding_top": 36,
