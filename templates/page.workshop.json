@@ -1,0 +1,147 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 76
+      }
+    },
+    "039530e2-6576-4f1c-bba2-2b1dc8597821": {
+      "type": "rich-text",
+      "blocks": {
+        "f9b01763-3c35-47c6-a064-df80fcdee9aa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Em breve novidades sobre os cursos online!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f9b01763-3c35-47c6-a064-df80fcdee9aa"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-ca66276b-c6f4-467f-b9ee-0ed84ab633be",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Venha conosco!",
+            "heading_size": "h1"
+          }
+        },
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "No Studio Downtown, o objetivo é empoderar mulheres, a fim de incentivá-las a construir uma melhor relação com o próprio corpo e sua vida, elevando a autoconfiança e autoestima das alunas. Juliana, junto a um time de professoras, oferece no estúdio aulas de pole dance nas modalidades Sensual, Exotic Pole, Pole Sport, Strong Pole Sport e Pole Root, além de aulas de tecido acrobático, flexibilidade e alongamento.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-heading-1",
+        "template--21227630952730__ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/muniz-studio-b_w.png",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-cca75d06-d90f-4027-b87c-5a450c47e063",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "158a22b7-9e20-4b7c-ad9a-9811a8f9a73a": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/muniz-logo-studio.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7bcd4645-652f-4362-b5e9-2f8428331786": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21227630952730__7bcd4645-652f-4362-b5e9-2f8428331786-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"https:\/\/www.dancecomjumuniz.com\/prices\">Agenda e Preços →<\/a>",
+            "text": "<p>Acompanhe nossa agenda de horários e confira nossos preços.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21227630952730__7bcd4645-652f-4362-b5e9-2f8428331786-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"https:\/\/www.dancecomjumuniz.com\/modalities\">Modalidades →<\/a>",
+            "text": "<p>Descubra a beleza e a emoção das nossas modalidades e encontre a paixão pela dança que está dentro de você!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21227630952730__7bcd4645-652f-4362-b5e9-2f8428331786-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"https:\/\/www.dancecomjumuniz.com\/juliana\">Conheça Juliana →<\/a>",
+            "text": "<p>Com uma carreira de mais de 10 anos, Juliana Muniz coleciona, em sua trajetória, títulos nacionais e internacionais...<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21227630952730__7bcd4645-652f-4362-b5e9-2f8428331786-column-1",
+        "template--21227630952730__7bcd4645-652f-4362-b5e9-2f8428331786-column-2",
+        "template--21227630952730__7bcd4645-652f-4362-b5e9-2f8428331786-column-3"
+      ],
+      "settings": {
+        "title": "Veja Também",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-a39c017e-a359-40e0-99b2-5d99124e056f",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "039530e2-6576-4f1c-bba2-2b1dc8597821",
+    "ecf7b4aa-e34d-4310-80ce-e027e4f2aa5f",
+    "158a22b7-9e20-4b7c-ad9a-9811a8f9a73a",
+    "7bcd4645-652f-4362-b5e9-2f8428331786"
+  ]
+}
