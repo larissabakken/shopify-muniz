@@ -206,6 +206,50 @@
         "accessibility_info": ""
       }
     },
+    "b019e2c9-6821-454a-a7a6-1533f218dbb7": {
+      "type": "rich-text",
+      "blocks": {
+        "abbb6153-2503-461d-afcf-3925cec6d75b": {
+          "type": "caption",
+          "settings": {
+            "caption": "Sexy Old Strip",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--21227594023194__b019e2c9-6821-454a-a7a6-1533f218dbb7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Venha Conhecer o meu Worshop",
+            "heading_size": "h0"
+          }
+        },
+        "template--21227594023194__b019e2c9-6821-454a-a7a6-1533f218dbb7-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saiba mais",
+            "button_link": "shopify:\/\/pages\/workshop",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "abbb6153-2503-461d-afcf-3925cec6d75b",
+        "template--21227594023194__b019e2c9-6821-454a-a7a6-1533f218dbb7-heading-1",
+        "template--21227594023194__b019e2c9-6821-454a-a7a6-1533f218dbb7-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "06396d79-7027-4806-8f91-09e10dd65279": {
       "type": "video",
       "settings": {
@@ -314,6 +358,7 @@
     "aca49941-f3f4-4588-a5b4-8f8f5b157305",
     "87636941-e860-4a3d-bfa4-866dd0c2c059",
     "451e018e-d1e7-48cc-8087-31e6200b7bfa",
+    "b019e2c9-6821-454a-a7a6-1533f218dbb7",
     "06396d79-7027-4806-8f91-09e10dd65279",
     "103c385b-ec1b-4c45-a05d-182b030929c0",
     "0a127a96-a7c8-44f1-893f-dddd18415b16"
