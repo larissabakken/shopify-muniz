@@ -123,7 +123,8 @@
         "template--21430821814554__76944fd2-8883-4cb3-8345-33d9fb3274d5-row-2"
       ],
       "custom_css": [
-        "h2 {color: #FF1493;}"
+        "h2 {color: #ff1493;}",
+        "p {font-size: \"2rem\";}"
       ],
       "settings": {
         "image_height": "medium",
