@@ -224,6 +224,12 @@
             "heading_size": "h0"
           }
         },
+        "a67e2928-deec-421c-b03a-d90e2323169c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aprenda os segredos da dança no pole e sinta-se sexy e poderosa! Conheça o sexy old strip.<\/p>"
+          }
+        },
         "template--21227594023194__b019e2c9-6821-454a-a7a6-1533f218dbb7-button-1": {
           "type": "button",
           "settings": {
@@ -239,6 +245,7 @@
       "block_order": [
         "abbb6153-2503-461d-afcf-3925cec6d75b",
         "template--21227594023194__b019e2c9-6821-454a-a7a6-1533f218dbb7-heading-1",
+        "a67e2928-deec-421c-b03a-d90e2323169c",
         "template--21227594023194__b019e2c9-6821-454a-a7a6-1533f218dbb7-button-1"
       ],
       "settings": {
