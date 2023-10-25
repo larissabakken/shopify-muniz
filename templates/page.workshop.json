@@ -23,7 +23,7 @@
         "template--21430821814554__61296c23-5eae-408e-bfe7-2cc0b44767e8-heading-1"
       ],
       "custom_css": [
-        ".banner__box.gradient {opacity: 0.8}"
+        ".banner__box.gradient {opacity: 0.8;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/sensual.webp",
@@ -38,10 +38,57 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "fb05be33-e7c6-4fc5-b90e-21a20cf2c75a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Assuntos abordados",
+            "heading_size": "h2"
+          }
+        },
+        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Qual a diferença de uma dança no Pole e um Strip profissional?<\/li><li>Qual o tipo de coreografia deve ser feita?<\/li><li>Como ser feita a exposição corporal em um strip?<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-heading-1",
+        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-text-1",
+        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_030.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "61296c23-5eae-408e-bfe7-2cc0b44767e8"
+    "61296c23-5eae-408e-bfe7-2cc0b44767e8",
+    "fb05be33-e7c6-4fc5-b90e-21a20cf2c75a"
   ]
 }
