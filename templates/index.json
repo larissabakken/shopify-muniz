@@ -244,7 +244,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -260,7 +260,7 @@
         "cover_image": "shopify:\/\/shop_images\/muniz_thumb_efbff59e-60b0-4284-922d-8b2abf0f4c54.jpg",
         "description": "",
         "full_width": false,
-        "color_scheme": "scheme-ca66276b-c6f4-467f-b9ee-0ed84ab633be",
+        "color_scheme": "background-2",
         "padding_top": 36,
         "padding_bottom": 36
       }
