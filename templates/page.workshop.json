@@ -22,6 +22,9 @@
       "block_order": [
         "template--21430821814554__61296c23-5eae-408e-bfe7-2cc0b44767e8-heading-1"
       ],
+      "custom_css": [
+        ".banner__box.gradient {opacity: 0.8}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/sensual.webp",
         "image_overlay_opacity": 0,
