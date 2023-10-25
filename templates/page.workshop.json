@@ -39,43 +39,6 @@
         "show_text_below": true
       }
     },
-    "fb05be33-e7c6-4fc5-b90e-21a20cf2c75a": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Assuntos abordados",
-            "heading_size": "h2"
-          }
-        },
-        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Qual a diferença de uma dança no Pole e um Strip profissional?<\/li><li>Qual o tipo de coreografia deve ser feita?<\/li><li>Como ser feita a exposição corporal em um strip?<\/li><\/ul>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-heading-1",
-        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_030.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "634de99f-501f-4107-a498-9ad28b69352a": {
       "type": "multicolumn",
       "blocks": {
@@ -113,18 +76,64 @@
         "template--21430821814554__634de99f-501f-4107-a498-9ad28b69352a-column-3"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "half",
+        "image_ratio": "portrait",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "76944fd2-8883-4cb3-8345-33d9fb3274d5": {
+      "type": "multirow",
+      "blocks": {
+        "template--21430821814554__76944fd2-8883-4cb3-8345-33d9fb3274d5-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sport.webp",
+            "caption": "",
+            "heading": "Nível básico",
+            "text": "<ul><li>Coreografia<\/li><li>Giros básicos<\/li><li>Body waves<\/li><li>Trabalho de floor <\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21430821814554__76944fd2-8883-4cb3-8345-33d9fb3274d5-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ju-banner-home.png",
+            "caption": "",
+            "heading": "Nível intermediário",
+            "text": "<ul><li>Coreografia com escaladas em nível médio na barra, contendo algumas manobras<\/li><li>Body waves<\/li><li> Trabalho de floor<\/li><\/ul><p><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21430821814554__76944fd2-8883-4cb3-8345-33d9fb3274d5-row-1",
+        "template--21430821814554__76944fd2-8883-4cb3-8345-33d9fb3274d5-row-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -133,7 +142,7 @@
   "order": [
     "main",
     "61296c23-5eae-408e-bfe7-2cc0b44767e8",
-    "fb05be33-e7c6-4fc5-b90e-21a20cf2c75a",
-    "634de99f-501f-4107-a498-9ad28b69352a"
+    "634de99f-501f-4107-a498-9ad28b69352a",
+    "76944fd2-8883-4cb3-8345-33d9fb3274d5"
   ]
 }
