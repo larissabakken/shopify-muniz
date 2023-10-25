@@ -13,7 +13,7 @@
         "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-text-1": {
           "type": "text",
           "settings": {
-            "text": "“Desistir nunca foi uma opção pra mim, dentro desse contexto minha meta de vida se tornou mostrar para todas as pessoas que eu puder a força que ela tem. O <em>Pole Dance<\/em> me deu essa oportunidade.”",
+            "text": "<strong>“Desistir nunca foi uma opção pra mim, dentro desse contexto minha meta de vida se tornou mostrar para todas as pessoas que eu puder a força que ela tem. O <\/strong><em><strong>Pole Dance<\/strong><\/em><strong> me deu essa oportunidade.”<\/strong>",
             "text_style": "body"
           }
         },
@@ -35,7 +35,7 @@
         "template--21064322547994__aca49941-f3f4-4588-a5b4-8f8f5b157305-buttons-1"
       ],
       "custom_css": [
-
+        ".banner__box.gradient {opacity: 0.7;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_013.jpg",
