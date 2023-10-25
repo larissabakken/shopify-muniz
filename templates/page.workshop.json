@@ -75,6 +75,10 @@
         "template--21430821814554__634de99f-501f-4107-a498-9ad28b69352a-column-2",
         "template--21430821814554__634de99f-501f-4107-a498-9ad28b69352a-column-3"
       ],
+      "custom_css": [
+        "h2 {color: #ff1493;}",
+        "li {font-size: 2rem;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
