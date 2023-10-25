@@ -55,20 +55,11 @@
             "text": "<ul><li>Qual a diferença de uma dança no Pole e um Strip profissional?<\/li><li>Qual o tipo de coreografia deve ser feita?<\/li><li>Como ser feita a exposição corporal em um strip?<\/li><\/ul>",
             "text_style": "body"
           }
-        },
-        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-heading-1",
-        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-text-1",
-        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-button-1"
+        "template--21430821814554__fb05be33-e7c6-4fc5-b90e-21a20cf2c75a-text-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_030.jpg",
@@ -84,11 +75,65 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "634de99f-501f-4107-a498-9ad28b69352a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21430821814554__634de99f-501f-4107-a498-9ad28b69352a-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Assuntos Abordados",
+            "text": "<ul><li>Qual a diferença de uma dança no Pole e um Strip profissional?<\/li><li>Qual o tipo de coreografia deve ser feita?<\/li><li>Como ser feita a exposição corporal em um strip?<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21430821814554__634de99f-501f-4107-a498-9ad28b69352a-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Conteúdos do Workshop",
+            "text": "<ul><li>Como tirar a roupa de forma sensual<\/li><li>Como finalizar o Strip<\/li><li>Jogadas de cabelo e bases de giros<\/li><li>Body waves<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21430821814554__634de99f-501f-4107-a498-9ad28b69352a-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "O que oferecemos?",
+            "text": "<ul><li>2 horas de workshop<\/li><li>Certificado <\/li><li>Níveis básico e intermediário<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21430821814554__634de99f-501f-4107-a498-9ad28b69352a-column-1",
+        "template--21430821814554__634de99f-501f-4107-a498-9ad28b69352a-column-2",
+        "template--21430821814554__634de99f-501f-4107-a498-9ad28b69352a-column-3"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "61296c23-5eae-408e-bfe7-2cc0b44767e8",
-    "fb05be33-e7c6-4fc5-b90e-21a20cf2c75a"
+    "fb05be33-e7c6-4fc5-b90e-21a20cf2c75a",
+    "634de99f-501f-4107-a498-9ad28b69352a"
   ]
 }
