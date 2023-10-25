@@ -178,15 +178,15 @@
         "template--21430821814554__1836d114-4300-41f2-94fa-11836789e94e-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_023.jpg",
-        "height": "medium",
+        "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_001.jpg",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "scheme-688f2d30-56fe-4aa7-9fa8-55abe5fefec3",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
