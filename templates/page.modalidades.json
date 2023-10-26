@@ -73,7 +73,7 @@
             "image": "shopify:\/\/shop_images\/Danielle_Satiko_satikofotos_011.jpg",
             "caption": "",
             "heading": "POLE SENSUAL",
-            "text": "<p>Uma dança para evidenciar toda a sensualidade que já existe dentro de toda mulher. Além da coreografia, as aulas nos ajudam a nos reconectar.<\/p>",
+            "text": "<h3>Uma dança para evidenciar toda a sensualidade que já existe dentro de toda mulher. Além da coreografia, as aulas nos ajudam a nos reconectar.<\/h3>",
             "button_label": "",
             "button_link": ""
           }
@@ -135,8 +135,8 @@
         "h2 {color: #00ced1;}"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
+        "image_height": "small",
+        "desktop_image_width": "small",
         "heading_size": "h2",
         "text_style": "body",
         "button_style": "secondary",
